@@ -1,0 +1,13 @@
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache

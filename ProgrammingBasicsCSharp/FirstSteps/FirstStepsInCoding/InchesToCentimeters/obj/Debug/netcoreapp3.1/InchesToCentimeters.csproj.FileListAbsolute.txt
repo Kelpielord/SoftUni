@@ -1,0 +1,13 @@
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.exe
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.deps.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.runtimeconfig.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.runtimeconfig.dev.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.AssemblyInfo.cs
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.genruntimeconfig.cache

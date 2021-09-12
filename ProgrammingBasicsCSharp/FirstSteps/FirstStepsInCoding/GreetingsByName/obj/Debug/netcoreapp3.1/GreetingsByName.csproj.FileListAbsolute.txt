@@ -1,0 +1,13 @@
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\bin\Debug\netcoreapp3.1\GreetingsByName.exe
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\bin\Debug\netcoreapp3.1\GreetingsByName.deps.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\bin\Debug\netcoreapp3.1\GreetingsByName.runtimeconfig.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\bin\Debug\netcoreapp3.1\GreetingsByName.runtimeconfig.dev.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\bin\Debug\netcoreapp3.1\GreetingsByName.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\bin\Debug\netcoreapp3.1\GreetingsByName.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.AssemblyInfoInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.AssemblyInfo.cs
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.csproj.CoreCompileInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\GreetingsByName\obj\Debug\netcoreapp3.1\GreetingsByName.genruntimeconfig.cache

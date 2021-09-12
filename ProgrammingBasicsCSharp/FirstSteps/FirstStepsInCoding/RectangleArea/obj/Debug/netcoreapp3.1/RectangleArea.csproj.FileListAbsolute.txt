@@ -1,0 +1,14 @@
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.exe
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.deps.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.dev.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.AssemblyReference.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfo.cs
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.genruntimeconfig.cache

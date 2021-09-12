@@ -1,0 +1,13 @@
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.exe
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.deps.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.runtimeconfig.dev.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\bin\Debug\netcoreapp3.1\ConcatenateData.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfoInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.AssemblyInfo.cs
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\ConcatenateData\obj\Debug\netcoreapp3.1\ConcatenateData.genruntimeconfig.cache

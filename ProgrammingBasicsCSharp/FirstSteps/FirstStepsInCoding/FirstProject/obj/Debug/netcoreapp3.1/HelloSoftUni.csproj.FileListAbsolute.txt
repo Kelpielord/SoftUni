@@ -1,0 +1,13 @@
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\bin\Debug\netcoreapp3.1\HelloSoftUni.exe
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\bin\Debug\netcoreapp3.1\HelloSoftUni.deps.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.dev.json
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\bin\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\bin\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfo.cs
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Softuni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCoding\FirstProject\obj\Debug\netcoreapp3.1\HelloSoftUni.genruntimeconfig.cache
