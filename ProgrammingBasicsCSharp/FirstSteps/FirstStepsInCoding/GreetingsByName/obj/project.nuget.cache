@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1AA9TuCqTKooEUGGpFkzXX5ga75QanJ34DP7PDn8oqvDG8Vg9NYm/BZvhtsJx31jrqW5urCJM41cQy1l6aZG9Q==",
+  "dgSpecHash": "oOP3vtbbkzGR/tXvju1VuVip1rsoJFQiH8A89Ul49Aaf4f+FRH4BjBAXDI4A0PE5Ndm+jQNJrxNNA4kJB/zKvA==",
   "success": true,
-  "projectFilePath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\GreetingsByName.csproj",
+  "projectFilePath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\GreetingsByName.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

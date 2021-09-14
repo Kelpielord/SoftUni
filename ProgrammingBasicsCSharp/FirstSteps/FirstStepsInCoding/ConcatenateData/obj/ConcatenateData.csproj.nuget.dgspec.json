@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj": {}
+    "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj": {}
   },
   "projects": {
-    "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj": {
+    "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj",
+        "projectUniqueName": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj",
         "projectName": "ConcatenateData",
-        "projectPath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj",
+        "projectPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\ConcatenateData.csproj",
         "packagesPath": "C:\\Users\\selen\\.nuget\\packages\\",
-        "outputPath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\obj\\",
+        "outputPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\ConcatenateData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

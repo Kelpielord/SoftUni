@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "172mAotgQi4TOmFtWS6FzrUoI9YJGpIQhFobQIx2vKwGWzEmcypPYgr/dXSzKx1qgeTG0qxGCRYOFmqcsCcNiQ==",
+  "dgSpecHash": "QmHLlW4afAHOIpQd2c7vYkJkyu4kg8+NsP0d1NYQ7u60fnpxV0zznQcp5NOc7sEMLesIXZBZpNgs6fm+Sksf+w==",
   "success": true,
-  "projectFilePath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj",
+  "projectFilePath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

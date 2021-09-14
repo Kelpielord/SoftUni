@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj": {}
+    "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj": {}
   },
   "projects": {
-    "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj": {
+    "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj",
+        "projectUniqueName": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj",
         "projectName": "HelloSoftUni",
-        "projectPath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj",
+        "projectPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\HelloSoftUni.csproj",
         "packagesPath": "C:\\Users\\selen\\.nuget\\packages\\",
-        "outputPath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\obj\\",
+        "outputPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

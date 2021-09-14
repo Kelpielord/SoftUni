@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\GreetingsByName.csproj",
+      "projectUniqueName": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\GreetingsByName.csproj",
       "projectName": "GreetingsByName",
-      "projectPath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\GreetingsByName.csproj",
+      "projectPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\GreetingsByName.csproj",
       "packagesPath": "C:\\Users\\selen\\.nuget\\packages\\",
-      "outputPath": "C:\\Softuni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\obj\\",
+      "outputPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\FirstStepsInCoding\\GreetingsByName\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
