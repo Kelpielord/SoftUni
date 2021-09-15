@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoBGN.csproj", "{12D42CE8-C8EB-44C7-8AFA-AE7CC45F27B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegrees", "RadiansToDegrees\RadiansToDegrees.csproj", "{8714B215-1BD7-462A-9770-D8220DB7DEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D42CE8-C8EB-44C7-8AFA-AE7CC45F27B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D42CE8-C8EB-44C7-8AFA-AE7CC45F27B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D42CE8-C8EB-44C7-8AFA-AE7CC45F27B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D42CE8-C8EB-44C7-8AFA-AE7CC45F27B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8714B215-1BD7-462A-9770-D8220DB7DEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8714B215-1BD7-462A-9770-D8220DB7DEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8714B215-1BD7-462A-9770-D8220DB7DEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8714B215-1BD7-462A-9770-D8220DB7DEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C83EBAE-4EBE-487E-A606-60905D4EBAB8}
+	EndGlobalSection
+EndGlobal
