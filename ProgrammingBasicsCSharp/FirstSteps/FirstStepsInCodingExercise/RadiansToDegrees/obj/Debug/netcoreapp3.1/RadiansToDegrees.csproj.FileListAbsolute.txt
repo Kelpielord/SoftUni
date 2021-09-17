@@ -1,0 +1,14 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.genruntimeconfig.cache

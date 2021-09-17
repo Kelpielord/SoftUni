@@ -1,0 +1,13 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\bin\Debug\netcoreapp3.1\SuppliesForSchool.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\SuppliesForSchool\obj\Debug\netcoreapp3.1\SuppliesForSchool.genruntimeconfig.cache

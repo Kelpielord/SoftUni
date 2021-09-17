@@ -12,3 +12,17 @@ C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise
 C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
 C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb
 C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.genruntimeconfig.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.genruntimeconfig.cache

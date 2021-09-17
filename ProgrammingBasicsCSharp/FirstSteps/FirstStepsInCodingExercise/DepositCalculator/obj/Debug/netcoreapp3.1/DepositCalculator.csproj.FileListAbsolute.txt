@@ -1,0 +1,14 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.genruntimeconfig.cache
