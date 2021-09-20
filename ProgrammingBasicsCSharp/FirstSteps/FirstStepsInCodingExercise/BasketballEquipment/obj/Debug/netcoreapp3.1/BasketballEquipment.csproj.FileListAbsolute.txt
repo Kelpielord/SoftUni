@@ -1,0 +1,13 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.genruntimeconfig.cache

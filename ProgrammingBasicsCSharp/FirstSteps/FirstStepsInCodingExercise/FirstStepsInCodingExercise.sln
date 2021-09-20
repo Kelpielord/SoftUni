@@ -7,13 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "USDtoBGN", "USDtoBGN\USDtoB
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadiansToDegrees", "RadiansToDegrees\RadiansToDegrees.csproj", "{8714B215-1BD7-462A-9770-D8220DB7DEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{14A3B525-74A1-408A-865E-26C6A4E75BB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepositCalculator", "DepositCalculator\DepositCalculator.csproj", "{14A3B525-74A1-408A-865E-26C6A4E75BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacationBooksList", "VacationBooksList\VacationBooksList.csproj", "{E35B8DAB-C52F-4924-8315-A29209AB6241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacationBooksList", "VacationBooksList\VacationBooksList.csproj", "{E35B8DAB-C52F-4924-8315-A29209AB6241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesForSchool", "SuppliesForSchool\SuppliesForSchool.csproj", "{1B910423-1A49-4291-B59F-89545F3B08ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuppliesForSchool", "SuppliesForSchool\SuppliesForSchool.csproj", "{1B910423-1A49-4291-B59F-89545F3B08ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repainting", "Repainting\Repainting.csproj", "{EDE11A68-8441-468D-868F-C1D9158624A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repainting", "Repainting\Repainting.csproj", "{EDE11A68-8441-468D-868F-C1D9158624A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery", "FoodDelivery\FoodDelivery.csproj", "{D89E699D-42FA-441E-9798-B47594679ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballEquipment", "BasketballEquipment\BasketballEquipment.csproj", "{1A90021D-08DB-48ED-A04A-8FCE47E63A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishTank", "FishTank\FishTank.csproj", "{D7558221-AC42-46F3-B89A-898EB24FA7D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{EDE11A68-8441-468D-868F-C1D9158624A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDE11A68-8441-468D-868F-C1D9158624A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDE11A68-8441-468D-868F-C1D9158624A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89E699D-42FA-441E-9798-B47594679ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89E699D-42FA-441E-9798-B47594679ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89E699D-42FA-441E-9798-B47594679ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89E699D-42FA-441E-9798-B47594679ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A90021D-08DB-48ED-A04A-8FCE47E63A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A90021D-08DB-48ED-A04A-8FCE47E63A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A90021D-08DB-48ED-A04A-8FCE47E63A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A90021D-08DB-48ED-A04A-8FCE47E63A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7558221-AC42-46F3-B89A-898EB24FA7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7558221-AC42-46F3-B89A-898EB24FA7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7558221-AC42-46F3-B89A-898EB24FA7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7558221-AC42-46F3-B89A-898EB24FA7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
