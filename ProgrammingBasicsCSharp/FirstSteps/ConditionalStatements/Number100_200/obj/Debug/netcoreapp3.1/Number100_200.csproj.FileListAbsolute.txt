@@ -1,0 +1,13 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatements\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.genruntimeconfig.cache
