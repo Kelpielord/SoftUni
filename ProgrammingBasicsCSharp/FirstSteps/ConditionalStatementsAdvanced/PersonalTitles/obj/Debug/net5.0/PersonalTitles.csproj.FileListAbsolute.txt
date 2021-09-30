@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\ref\PersonalTitles.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\bin\Debug\net5.0\PersonalTitles.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\ref\PersonalTitles.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\PersonalTitles\obj\Debug\net5.0\PersonalTitles.genruntimeconfig.cache
