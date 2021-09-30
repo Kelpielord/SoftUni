@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\WeekendOrWorkingDay.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\WeekendOrWorkingDay.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\WeekendOrWorkingDay.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\WeekendOrWorkingDay.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\WeekendOrWorkingDay.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\ref\WeekendOrWorkingDay.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\bin\Debug\net5.0\WeekendOrWorkingDay.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\ref\WeekendOrWorkingDay.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\WeekendOrWorkingDay\obj\Debug\net5.0\WeekendOrWorkingDay.genruntimeconfig.cache

@@ -11,9 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimePlusFifteenMinutes", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToyShop", "ToyShop\ToyShop.csproj", "{1885281F-F71D-4357-8564-11846569091F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodzillaVsKong", "GodzillaVsKong\GodzillaVsKong.csproj", "{8BDDB629-88A4-4394-82C6-C2C8162145C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GodzillaVsKong", "GodzillaVsKong\GodzillaVsKong.csproj", "{8BDDB629-88A4-4394-82C6-C2C8162145C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSwimmingRecord", "WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{A4D39B58-0471-47E2-8944-EE3D0A87AACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldSwimmingRecord", "WorldSwimmingRecord\WorldSwimmingRecord.csproj", "{A4D39B58-0471-47E2-8944-EE3D0A87AACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwimmingWorldRecord", "SwimmingWorldRecord\SwimmingWorldRecord.csproj", "{99E10AD6-21A8-407E-9161-13CB269DE1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{C9912455-DBF0-47C3-AA20-DD684195DF11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunchBreak", "LunchBreak\LunchBreak.csproj", "{1AEC760B-E01D-4ECA-AF7A-A71FB61A3F4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{A4D39B58-0471-47E2-8944-EE3D0A87AACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4D39B58-0471-47E2-8944-EE3D0A87AACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4D39B58-0471-47E2-8944-EE3D0A87AACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E10AD6-21A8-407E-9161-13CB269DE1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E10AD6-21A8-407E-9161-13CB269DE1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E10AD6-21A8-407E-9161-13CB269DE1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E10AD6-21A8-407E-9161-13CB269DE1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9912455-DBF0-47C3-AA20-DD684195DF11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9912455-DBF0-47C3-AA20-DD684195DF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9912455-DBF0-47C3-AA20-DD684195DF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9912455-DBF0-47C3-AA20-DD684195DF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEC760B-E01D-4ECA-AF7A-A71FB61A3F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEC760B-E01D-4ECA-AF7A-A71FB61A3F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEC760B-E01D-4ECA-AF7A-A71FB61A3F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEC760B-E01D-4ECA-AF7A-A71FB61A3F4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

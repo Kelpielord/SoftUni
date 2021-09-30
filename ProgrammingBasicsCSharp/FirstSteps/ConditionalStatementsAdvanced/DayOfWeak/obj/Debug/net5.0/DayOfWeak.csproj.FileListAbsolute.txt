@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\DayOfWeak.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\DayOfWeak.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\DayOfWeak.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\DayOfWeak.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\DayOfWeak.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\ref\DayOfWeak.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\bin\Debug\net5.0\DayOfWeak.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\ref\DayOfWeak.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\DayOfWeak\obj\Debug\net5.0\DayOfWeak.genruntimeconfig.cache
