@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeak", "DayOfWeak\DayO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekendOrWorkingDay", "WeekendOrWorkingDay\WeekendOrWorkingDay.csproj", "{31BE2B97-252C-4F11-BA7F-E9547E21B87E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalType", "AnimalType\AnimalType.csproj", "{58FD36E7-D66B-425B-8A36-649AE4A5B242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTitles", "PersonalTitles\PersonalTitles.csproj", "{5DBD55F6-35E0-4046-9805-B48CD5145187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{31BE2B97-252C-4F11-BA7F-E9547E21B87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BE2B97-252C-4F11-BA7F-E9547E21B87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31BE2B97-252C-4F11-BA7F-E9547E21B87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FD36E7-D66B-425B-8A36-649AE4A5B242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FD36E7-D66B-425B-8A36-649AE4A5B242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FD36E7-D66B-425B-8A36-649AE4A5B242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FD36E7-D66B-425B-8A36-649AE4A5B242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBD55F6-35E0-4046-9805-B48CD5145187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBD55F6-35E0-4046-9805-B48CD5145187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBD55F6-35E0-4046-9805-B48CD5145187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBD55F6-35E0-4046-9805-B48CD5145187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\AnimalType.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\AnimalType.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\AnimalType.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\AnimalType.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\AnimalType.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\ref\AnimalType.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\bin\Debug\net5.0\AnimalType.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\ref\AnimalType.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\AnimalType\obj\Debug\net5.0\AnimalType.genruntimeconfig.cache
