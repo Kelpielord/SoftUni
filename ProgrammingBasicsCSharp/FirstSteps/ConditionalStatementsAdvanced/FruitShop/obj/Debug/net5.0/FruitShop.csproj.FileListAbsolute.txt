@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\FruitShop.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\FruitShop.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\FruitShop.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\FruitShop.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\FruitShop.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\ref\FruitShop.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\bin\Debug\net5.0\FruitShop.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\ref\FruitShop.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\FruitShop\obj\Debug\net5.0\FruitShop.genruntimeconfig.cache

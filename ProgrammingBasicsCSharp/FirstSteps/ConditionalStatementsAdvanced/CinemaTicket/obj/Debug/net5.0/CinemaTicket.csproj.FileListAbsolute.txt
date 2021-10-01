@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\CinemaTicket.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\CinemaTicket.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\CinemaTicket.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\CinemaTicket.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\CinemaTicket.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\ref\CinemaTicket.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\bin\Debug\net5.0\CinemaTicket.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\ref\CinemaTicket.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvanced\CinemaTicket\obj\Debug\net5.0\CinemaTicket.genruntimeconfig.cache
