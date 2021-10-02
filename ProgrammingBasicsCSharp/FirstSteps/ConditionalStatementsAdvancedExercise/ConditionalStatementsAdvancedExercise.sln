@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerOutfit", "SummerOutfi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHouse", "NewHouse\NewHouse.csproj", "{1EF1DA30-B2DB-40D2-8802-96C208058F43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishingBoat", "FishingBoat\FishingBoat.csproj", "{A74B3AB5-55B7-4225-9881-321E637C3728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74B3AB5-55B7-4225-9881-321E637C3728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74B3AB5-55B7-4225-9881-321E637C3728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74B3AB5-55B7-4225-9881-321E637C3728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74B3AB5-55B7-4225-9881-321E637C3728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
