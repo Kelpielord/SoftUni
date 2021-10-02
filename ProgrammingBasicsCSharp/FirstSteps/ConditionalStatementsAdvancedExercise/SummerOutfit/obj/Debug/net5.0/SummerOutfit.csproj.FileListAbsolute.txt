@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\ref\SummerOutfit.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\bin\Debug\net5.0\SummerOutfit.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\ref\SummerOutfit.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ConditionalStatementsAdvancedExercise\SummerOutfit\obj\Debug\net5.0\SummerOutfit.genruntimeconfig.cache

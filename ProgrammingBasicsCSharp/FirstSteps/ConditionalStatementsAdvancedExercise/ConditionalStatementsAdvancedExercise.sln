@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{3A2A3E85-C184-43AA-A8B1-BC84091E0238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerOutfit", "SummerOutfit\SummerOutfit.csproj", "{EDE3F24B-7CE0-4C69-A079-B53C0883A5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHouse", "NewHouse\NewHouse.csproj", "{1EF1DA30-B2DB-40D2-8802-96C208058F43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2A3E85-C184-43AA-A8B1-BC84091E0238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2A3E85-C184-43AA-A8B1-BC84091E0238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2A3E85-C184-43AA-A8B1-BC84091E0238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2A3E85-C184-43AA-A8B1-BC84091E0238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE3F24B-7CE0-4C69-A079-B53C0883A5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE3F24B-7CE0-4C69-A079-B53C0883A5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE3F24B-7CE0-4C69-A079-B53C0883A5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE3F24B-7CE0-4C69-A079-B53C0883A5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF1DA30-B2DB-40D2-8802-96C208058F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
