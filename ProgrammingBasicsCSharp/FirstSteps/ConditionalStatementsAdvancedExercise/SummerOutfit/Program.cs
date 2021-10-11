@@ -1,61 +1,95 @@
 ﻿using System;
 
-namespace SummerOutfit
+namespace SummerOufit
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            double temperatura = double.Parse(Console.ReadLine());
+            double degrees = double.Parse(Console.ReadLine());
             string timeOfDay = Console.ReadLine();
-            string shoes = string.Empty;
-            string outfit = string.Empty;
 
-            if (timeOfDay == "Morning")
+            string outfit= "";
+            string shoes= "";
+            if(degrees>=10 && degrees<=18)
             {
-                if (temperatura >= 10 && temperatura <= 18)
+                switch(timeOfDay)
                 {
-                    outfit = "Sweatshirt";
-                    shoes = "Sneakers";
+                    case "Morning":
+                         outfit ="Sweatshirt";
+                         shoes = "Sneakers";
+                        break;
+                    case "Afternoon":
+                         outfit = "Shirt";
+                         shoes = "Moccasins";
+                        break;
+                    case "Evening":
+                        outfit = "Shirt";
+                        shoes = "Moccasins";
+                        break;
+                    default:
+                        Console.WriteLine();
+                        Environment.Exit(0);
+                        break;
                 }
-                else if (temperatura >= 18 && temperatura <= 24)
-                {
-                    outfit = "Shirt";
-                    shoes = "Moccasins";
-                }
-                else if (temperatura >= 25)
-                {
-                    outfit = "T-Shirt";
-                    shoes = "Sandals";
-                }
+                
+
             }
-            if (timeOfDay == "Afternoon")
+            else if(degrees>18 && degrees<=24)
             {
-                if (temperatura >= 10 && temperatura <= 18)
+                switch(timeOfDay)
                 {
-                    outfit = "Shirt";
-                    shoes = "Moccasins";
+                    case "Morning":
+                        outfit = "Shirt";
+                        shoes = "Moccasins";
+                        break;
+                    case "Afternoon":
+                        outfit = "T-Shirt";
+                        shoes = "Sandals";
+                        break;
+                    case "Evening":
+                        outfit = "Shirt";
+                        shoes = "Moccasins";
+                        break;
+                    default:
+                        Console.WriteLine();
+                        Environment.Exit(0);
+                        break;
                 }
-                else if (temperatura > 18 && temperatura <= 24)
-                {
-                    outfit = "T-Shirt";
-                    shoes = "Sandals";
-                }
-                else if (temperatura >= 25)
-                {
-                    outfit = "Swimsuit";
-                    shoes = "Barefoot";
-                }
+                
+              
             }
-            if (timeOfDay == "Evening")
+            else if (degrees >= 25)
             {
-                if (temperatura >= 10)
+                switch (timeOfDay)
                 {
-                    outfit = "Shirt";
-                    shoes = "Moccasins";
+                    case "Morning":
+                        outfit = "T-Shirt";
+                        //outfit = "T-shirt"; => T-Shirt !! ERROR
+                        shoes = "Sandals";
+                        break;
+                    case "Afternoon":
+                        outfit = "Swim Suit";
+                        shoes = "Barefoot";
+                        break;
+                    case "Evening":
+                        outfit = "Shirt";
+                        shoes = "Moccasins";
+                        break;
+                    default:
+                          Console.WriteLine();
+                        //Environment.Exit(0);
+                        break;
                 }
+                
             }
-            Console.WriteLine($"It's {temperatura} degrees, get your {outfit} and {shoes}.");
+            else
+            {
+                Console.WriteLine();
+                Environment.Exit(0);
+            }
+            Console.WriteLine($"It's {degrees} degrees, get your {outfit} and {shoes}.");
         }
+           
+        } 
     }
-}
