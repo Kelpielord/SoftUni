@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\NumbersFrom1To100.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\NumbersFrom1To100.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\NumbersFrom1To100.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\NumbersFrom1To100.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\NumbersFrom1To100.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\ref\NumbersFrom1To100.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\bin\Debug\net5.0\NumbersFrom1To100.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\ref\NumbersFrom1To100.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumbersFrom1To100\obj\Debug\net5.0\NumbersFrom1To100.genruntimeconfig.cache
