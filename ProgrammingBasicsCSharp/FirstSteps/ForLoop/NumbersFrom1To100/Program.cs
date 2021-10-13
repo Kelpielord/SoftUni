@@ -6,7 +6,11 @@ namespace NumbersFrom1To100
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int nums = 100;
+            for (int i = 1; i <= nums; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\NumberSequence.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\NumberSequence.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\NumberSequence.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\NumberSequence.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\NumberSequence.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\ref\NumberSequence.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\bin\Debug\net5.0\NumberSequence.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\ref\NumberSequence.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoop\NumberSequence\obj\Debug\net5.0\NumberSequence.genruntimeconfig.cache
