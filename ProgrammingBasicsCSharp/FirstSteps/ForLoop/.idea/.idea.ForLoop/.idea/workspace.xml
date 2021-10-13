@@ -5,108 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e212d032-b58e-40b6-9e4f-6ce4989640cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/HotelRoom.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/Debug/net5.0/HotelRoom.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/Debug/net5.0/HotelRoom.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/Debug/net5.0/HotelRoom.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/Debug/net5.0/HotelRoom.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/HotelRoom.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/HotelRoom.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/HotelRoom.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/HotelRoom/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/OnTimeForTheExam.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/Debug/net5.0/OnTimeForTheExam.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/Debug/net5.0/OnTimeForTheExam.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/Debug/net5.0/OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/Debug/net5.0/OnTimeForTheExam.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/OnTimeForTheExam.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/OnTimeForTheExam.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/OnTimeForTheExam.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OnTimeForTheExam/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/OperationsBetweenNumbers.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/Debug/net5.0/OperationsBetweenNumbers.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/OperationsBetweenNumbers.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/OperationsBetweenNumbers.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/OperationsBetweenNumbers.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/OperationsBetweenNumbers/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/SkiTrip.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/Debug/net5.0/SkiTrip.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/Debug/net5.0/SkiTrip.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/Debug/net5.0/SkiTrip.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/Debug/net5.0/SkiTrip.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/SkiTrip.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/SkiTrip.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/SkiTrip.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SkiTrip/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Cinema.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Cinema.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Cinema.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Cinema.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Debug/net5.0/Cinema.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Debug/net5.0/Cinema.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Debug/net5.0/Cinema.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Debug/net5.0/Cinema.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Cinema/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/ConditionalStatementsAdvancedExercise.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/ConditionalStatementsAdvancedExercise.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/Debug/net5.0/FishingBoat.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/Debug/net5.0/FishingBoat.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/Debug/net5.0/FishingBoat.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/Debug/net5.0/FishingBoat.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/FishingBoat.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/FishingBoat.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/FishingBoat.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/FishingBoat.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/FishingBoat/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Debug/net5.0/Journey.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Debug/net5.0/Journey.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Debug/net5.0/Journey.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Debug/net5.0/Journey.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Journey.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Journey.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Journey.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/Journey.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/Journey/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/Debug/net5.0/NewHouse.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/Debug/net5.0/NewHouse.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/Debug/net5.0/NewHouse.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/Debug/net5.0/NewHouse.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/NewHouse.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/NewHouse.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/NewHouse.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/NewHouse.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/NewHouse/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/Debug/net5.0/SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/Debug/net5.0/SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/Debug/net5.0/SummerOutfit.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/Debug/net5.0/SummerOutfit.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/Debug/net5.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/SummerOutfit.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/SummerOutfit.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/SummerOutfit.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/SummerOutfit.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../ConditionalStatementsAdvancedExercise/SummerOutfit/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ForLoop/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +57,8 @@
       <updated>1633952471136</updated>
       <workItem from="1633952480594" duration="12000" />
       <workItem from="1633952741554" duration="26000" />
+      <workItem from="1633953002281" duration="602000" />
+      <workItem from="1634111327202" duration="28000" />
     </task>
     <servers />
   </component>
