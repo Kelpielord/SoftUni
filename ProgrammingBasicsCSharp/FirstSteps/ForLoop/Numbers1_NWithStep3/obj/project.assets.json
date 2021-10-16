@@ -8,31 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\selen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Kelpie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoop\\Numbers1_NWithStep3\\Numbers1_NWithStep3.csproj",
+      "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoop\\Numbers1_NWithStep3\\Numbers1_NWithStep3.csproj",
       "projectName": "Numbers1_NWithStep3",
-      "projectPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoop\\Numbers1_NWithStep3\\Numbers1_NWithStep3.csproj",
-      "packagesPath": "C:\\Users\\selen\\.nuget\\packages\\",
-      "outputPath": "C:\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoop\\Numbers1_NWithStep3\\obj\\",
+      "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoop\\Numbers1_NWithStep3\\Numbers1_NWithStep3.csproj",
+      "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoop\\Numbers1_NWithStep3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\selen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Kelpie\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
