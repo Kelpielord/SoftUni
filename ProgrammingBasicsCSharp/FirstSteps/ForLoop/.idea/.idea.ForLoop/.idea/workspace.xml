@@ -14,87 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651653e6-c3f3-49cf-bebb-fa344511fe11" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ForLoop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/CharacterSequence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/CharacterSequence.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/CharacterSequence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/CharacterSequence.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/CharacterSequence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/CharacterSequence.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/CharacterSequence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/CharacterSequence.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CharacterSequence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterSequence/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/Debug/net5.0/EvenPowersОf2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/Debug/net5.0/EvenPowersОf2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/Debug/net5.0/EvenPowersОf2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/Debug/net5.0/EvenPowersОf2.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/Debug/net5.0/EvenPowersОf2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/Debug/net5.0/EvenPowersОf2.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/EvenPowersОf2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/EvenPowersОf2.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/EvenPowersОf2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/EvenPowersОf2.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenPowersОf2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EvenPowersОf2/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForLoop.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ForLoop.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/LeftAndRightSum.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/LeftAndRightSum.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/LeftAndRightSum.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/LeftAndRightSum.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/Debug/net5.0/NumberSequence.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/Debug/net5.0/NumberSequence.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/Debug/net5.0/NumberSequence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/Debug/net5.0/NumberSequence.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/NumberSequence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/NumberSequence.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/NumberSequence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/NumberSequence.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Debug/net5.0/Numbers1_NWithStep3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Debug/net5.0/Numbers1_NWithStep3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Debug/net5.0/Numbers1_NWithStep3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Debug/net5.0/Numbers1_NWithStep3.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Debug/net5.0/Numbers1_NWithStep3.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Debug/net5.0/Numbers1_NWithStep3.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Numbers1_NWithStep3.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Numbers1_NWithStep3.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Numbers1_NWithStep3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/Numbers1_NWithStep3.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers1_NWithStep3/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/NumbersFrom1To100.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/NumbersFrom1To100.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/NumbersFrom1To100.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/NumbersFrom1To100.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/Debug/net5.0/NumbersN_1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/Debug/net5.0/NumbersN_1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/Debug/net5.0/NumbersN_1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/Debug/net5.0/NumbersN_1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/Debug/net5.0/NumbersN_1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/Debug/net5.0/NumbersN_1.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/NumbersN_1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/NumbersN_1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/NumbersN_1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/NumbersN_1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersN_1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersN_1/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/Debug/net5.0/SumNumbers.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/Debug/net5.0/SumNumbers.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/Debug/net5.0/SumNumbers.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/Debug/net5.0/SumNumbers.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/Debug/net5.0/SumNumbers.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/Debug/net5.0/SumNumbers.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/SumNumbers.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/SumNumbers.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/SumNumbers.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/SumNumbers.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumNumbers/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SumNumbers/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/Debug/net5.0/VowelsSum.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/Debug/net5.0/VowelsSum.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/Debug/net5.0/VowelsSum.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/Debug/net5.0/VowelsSum.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/Debug/net5.0/VowelsSum.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/Debug/net5.0/VowelsSum.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/VowelsSum.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/VowelsSum.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/VowelsSum.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/VowelsSum.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VowelsSum/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/VowelsSum/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddEvenSum/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OddEvenSum/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.LeftAndRightSum">
+  <component name="RunManager" selected=".NET Project.OddEvenSum">
     <configuration name="CharacterSequence" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -322,6 +243,7 @@
       <workItem from="1634051673954" duration="4549000" />
       <workItem from="1634147509266" duration="294000" />
       <workItem from="1634370606796" duration="2046000" />
+      <workItem from="1634373227192" duration="312000" />
     </task>
     <servers />
   </component>
