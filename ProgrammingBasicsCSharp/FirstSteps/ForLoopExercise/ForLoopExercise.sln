@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersEndingIn7", "NumbersEndingIn7\NumbersEndingIn7.csproj", "{A047F69C-92F9-4D9D-A2AA-C1170DE0EA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalfSumElement", "HalfSumElement\HalfSumElement.csproj", "{7E32E018-78C3-4EAF-B078-2FE33B379A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{A8583224-6095-4DAB-BADD-AC1A2E7D2D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A047F69C-92F9-4D9D-A2AA-C1170DE0EA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A047F69C-92F9-4D9D-A2AA-C1170DE0EA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A047F69C-92F9-4D9D-A2AA-C1170DE0EA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A047F69C-92F9-4D9D-A2AA-C1170DE0EA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E32E018-78C3-4EAF-B078-2FE33B379A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E32E018-78C3-4EAF-B078-2FE33B379A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E32E018-78C3-4EAF-B078-2FE33B379A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E32E018-78C3-4EAF-B078-2FE33B379A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8583224-6095-4DAB-BADD-AC1A2E7D2D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8583224-6095-4DAB-BADD-AC1A2E7D2D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8583224-6095-4DAB-BADD-AC1A2E7D2D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8583224-6095-4DAB-BADD-AC1A2E7D2D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

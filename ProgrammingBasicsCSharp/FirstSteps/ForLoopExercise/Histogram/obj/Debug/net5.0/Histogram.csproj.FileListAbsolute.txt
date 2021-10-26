@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\Histogram.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\Histogram.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\Histogram.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\Histogram.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\ref\Histogram.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\bin\Debug\net5.0\Histogram.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\ref\Histogram.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\Histogram\obj\Debug\net5.0\Histogram.genruntimeconfig.cache

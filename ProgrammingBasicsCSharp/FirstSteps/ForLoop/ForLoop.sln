@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSequence", "NumberSeq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftAndRightSum", "LeftAndRightSum\LeftAndRightSum.csproj", "{2F9D7AD8-80BB-49ED-BB01-F70297540F27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenSum", "OddEvenSum\OddEvenSum.csproj", "{66D0B5FA-0151-4C1C-BDA4-17CAAA50F0DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{2F9D7AD8-80BB-49ED-BB01-F70297540F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F9D7AD8-80BB-49ED-BB01-F70297540F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F9D7AD8-80BB-49ED-BB01-F70297540F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D0B5FA-0151-4C1C-BDA4-17CAAA50F0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D0B5FA-0151-4C1C-BDA4-17CAAA50F0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D0B5FA-0151-4C1C-BDA4-17CAAA50F0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D0B5FA-0151-4C1C-BDA4-17CAAA50F0DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

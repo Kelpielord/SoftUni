@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\HalfSumElement.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\HalfSumElement.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\HalfSumElement.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\HalfSumElement.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\HalfSumElement.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\ref\HalfSumElement.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\bin\Debug\net5.0\HalfSumElement.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\ref\HalfSumElement.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\ForLoopExercise\HalfSumElement\obj\Debug\net5.0\HalfSumElement.genruntimeconfig.cache

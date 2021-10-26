@@ -10,11 +10,13 @@
     <projectFile>SumNumbers/SumNumbers.csproj</projectFile>
     <projectFile>NumberSequence/NumberSequence.csproj</projectFile>
     <projectFile>LeftAndRightSum/LeftAndRightSum.csproj</projectFile>
+    <projectFile>OddEvenSum/OddEvenSum.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="651653e6-c3f3-49cf-bebb-fa344511fe11" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/NumberSequence/obj/Debug/net5.0/NumberSequence.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumberSequence/obj/Debug/net5.0/NumberSequence.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFrom1To100/obj/Debug/net5.0/NumbersFrom1To100.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeftAndRightSum/obj/Debug/net5.0/LeftAndRightSum.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OddEvenSum/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OddEvenSum/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CharacterSequence/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -39,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.LeftAndRightSum">
+  <component name="RunManager" selected=".NET Project.OddEvenSum">
     <configuration name="CharacterSequence" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -166,6 +176,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="OddEvenSum" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OddEvenSum/OddEvenSum.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="SumNumbers" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -214,7 +242,9 @@
       <workItem from="1633952480594" duration="12000" />
       <workItem from="1633952741554" duration="26000" />
       <workItem from="1634051673954" duration="4549000" />
-      <workItem from="1634122035199" duration="6000" />
+      <workItem from="1634147509266" duration="294000" />
+      <workItem from="1634370606796" duration="2046000" />
+      <workItem from="1634373227192" duration="312000" />
     </task>
     <servers />
   </component>
