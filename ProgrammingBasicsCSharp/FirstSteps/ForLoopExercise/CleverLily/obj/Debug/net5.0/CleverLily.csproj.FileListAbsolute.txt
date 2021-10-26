@@ -1,0 +1,16 @@
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\CleverLily.exe
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\CleverLily.deps.json
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\CleverLily.runtimeconfig.json
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\CleverLily.runtimeconfig.dev.json
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\CleverLily.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\ref\CleverLily.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\bin\Debug\net5.0\CleverLily.pdb
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.csproj.AssemblyReference.cache
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.AssemblyInfoInputs.cache
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.AssemblyInfo.cs
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\ref\CleverLily.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.pdb
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\CleverLily\obj\Debug\net5.0\CleverLily.genruntimeconfig.cache

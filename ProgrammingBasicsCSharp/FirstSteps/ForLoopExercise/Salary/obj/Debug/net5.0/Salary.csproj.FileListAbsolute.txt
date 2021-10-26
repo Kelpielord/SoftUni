@@ -1,0 +1,16 @@
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\Salary.exe
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\Salary.deps.json
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\Salary.runtimeconfig.json
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\Salary.runtimeconfig.dev.json
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\Salary.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\ref\Salary.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\bin\Debug\net5.0\Salary.pdb
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.csproj.AssemblyReference.cache
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.AssemblyInfoInputs.cache
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.AssemblyInfo.cs
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\ref\Salary.dll
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.pdb
+C:\Users\Kelpie\RiderProjects\ForLoopExercise2\Salary\obj\Debug\net5.0\Salary.genruntimeconfig.cache
