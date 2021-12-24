@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\CountWorkingDays.exe
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\CountWorkingDays.deps.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\CountWorkingDays.runtimeconfig.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\CountWorkingDays.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\ref\CountWorkingDays.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\CountWorkingDays.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\ref\CountWorkingDays.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\CountWorkingDays.genruntimeconfig.cache

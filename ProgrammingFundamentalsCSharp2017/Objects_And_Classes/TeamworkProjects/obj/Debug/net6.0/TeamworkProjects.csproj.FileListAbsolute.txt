@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.exe
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.deps.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.runtimeconfig.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\bin\Debug\net6.0\ref\TeamworkProjects.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\ref\TeamworkProjects.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.genruntimeconfig.cache

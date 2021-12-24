@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\Objects_And_Classes.exe
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\Objects_And_Classes.deps.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\Objects_And_Classes.runtimeconfig.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\Objects_And_Classes.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\ref\Objects_And_Classes.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\bin\Debug\net6.0\Objects_And_Classes.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\ref\Objects_And_Classes.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\Objects_And_Classes\obj\Debug\net6.0\Objects_And_Classes.genruntimeconfig.cache

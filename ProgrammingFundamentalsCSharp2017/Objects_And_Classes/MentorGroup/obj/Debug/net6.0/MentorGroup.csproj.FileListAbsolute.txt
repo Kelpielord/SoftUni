@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\bin\Debug\net6.0\MentorGroup.exe
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\bin\Debug\net6.0\MentorGroup.deps.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\bin\Debug\net6.0\MentorGroup.runtimeconfig.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\bin\Debug\net6.0\MentorGroup.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\bin\Debug\net6.0\ref\MentorGroup.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\bin\Debug\net6.0\MentorGroup.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\ref\MentorGroup.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\MentorGroup\obj\Debug\net6.0\MentorGroup.genruntimeconfig.cache

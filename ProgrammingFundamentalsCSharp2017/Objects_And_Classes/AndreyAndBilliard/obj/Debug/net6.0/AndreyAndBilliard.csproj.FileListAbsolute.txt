@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\bin\Debug\net6.0\AndreyAndBilliard.exe
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\bin\Debug\net6.0\AndreyAndBilliard.deps.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\bin\Debug\net6.0\AndreyAndBilliard.runtimeconfig.json
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\bin\Debug\net6.0\AndreyAndBilliard.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\bin\Debug\net6.0\ref\AndreyAndBilliard.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\bin\Debug\net6.0\AndreyAndBilliard.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\ref\AndreyAndBilliard.dll
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.pdb
+C:\Users\Kelpie\Desktop\Objects_And_Classes\AndreyAndBilliard\obj\Debug\net6.0\AndreyAndBilliard.genruntimeconfig.cache
