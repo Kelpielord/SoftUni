@@ -1,0 +1,15 @@
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\bin\Debug\net6.0\AverageGrades.exe
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\bin\Debug\net6.0\AverageGrades.deps.json
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\bin\Debug\net6.0\AverageGrades.runtimeconfig.json
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\bin\Debug\net6.0\AverageGrades.dll
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\bin\Debug\net6.0\ref\AverageGrades.dll
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\bin\Debug\net6.0\AverageGrades.pdb
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.csproj.AssemblyReference.cache
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.AssemblyInfoInputs.cache
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.AssemblyInfo.cs
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.dll
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\ref\AverageGrades.dll
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.pdb
+C:\Users\selen\Desktop\CircleIntersection\AverageGrades\obj\Debug\net6.0\AverageGrades.genruntimeconfig.cache

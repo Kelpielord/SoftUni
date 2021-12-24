@@ -1,0 +1,15 @@
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\bin\Debug\net6.0\CircleIntersection.exe
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\bin\Debug\net6.0\CircleIntersection.deps.json
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\bin\Debug\net6.0\CircleIntersection.runtimeconfig.json
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\bin\Debug\net6.0\CircleIntersection.dll
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\bin\Debug\net6.0\ref\CircleIntersection.dll
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\bin\Debug\net6.0\CircleIntersection.pdb
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.csproj.AssemblyReference.cache
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.AssemblyInfoInputs.cache
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.AssemblyInfo.cs
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.csproj.CoreCompileInputs.cache
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.dll
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\ref\CircleIntersection.dll
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.pdb
+C:\Users\selen\Desktop\CircleIntersection\CircleIntersection\obj\Debug\net6.0\CircleIntersection.genruntimeconfig.cache

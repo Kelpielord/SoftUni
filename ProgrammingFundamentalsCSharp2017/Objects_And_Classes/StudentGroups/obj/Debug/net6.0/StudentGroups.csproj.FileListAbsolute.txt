@@ -1,0 +1,15 @@
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\bin\Debug\net6.0\StudentGroups.exe
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\bin\Debug\net6.0\StudentGroups.deps.json
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\bin\Debug\net6.0\StudentGroups.runtimeconfig.json
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\bin\Debug\net6.0\StudentGroups.dll
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\bin\Debug\net6.0\ref\StudentGroups.dll
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\bin\Debug\net6.0\StudentGroups.pdb
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.csproj.AssemblyReference.cache
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.AssemblyInfoInputs.cache
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.AssemblyInfo.cs
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.csproj.CoreCompileInputs.cache
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.dll
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\ref\StudentGroups.dll
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.pdb
+C:\Users\selen\Desktop\CircleIntersection\StudentGroups\obj\Debug\net6.0\StudentGroups.genruntimeconfig.cache

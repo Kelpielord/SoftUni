@@ -1,0 +1,16 @@
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\Test.exe
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\Test.deps.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\Test.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\ref\Test.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\bin\Debug\net5.0\Test.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\ref\Test.dll
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.pdb
+C:\Softuni\SoftUni\ProgrammingBasicsCSharp\FirstSteps\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

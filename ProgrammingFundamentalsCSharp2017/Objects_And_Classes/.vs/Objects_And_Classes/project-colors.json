@@ -1,41 +1,21 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "624ac1c6-5e5d-416b-be79-e18d47b93df1": {
-      "ProjectGuid": "624ac1c6-5e5d-416b-be79-e18d47b93df1",
-      "DisplayName": "CountWorkingDays",
+    "e56ddb5a-2b28-48dc-af40-08028b5ede2b": {
+      "ProjectGuid": "e56ddb5a-2b28-48dc-af40-08028b5ede2b",
+      "DisplayName": "CircleIntersection",
       "ColorIndex": 0
     },
-    "07eeaf9c-07f4-4b0d-b031-210bcf9498c4": {
-      "ProjectGuid": "07eeaf9c-07f4-4b0d-b031-210bcf9498c4",
-      "DisplayName": "AdvertisementMessage",
+    "4048e056-cc6e-4fda-8181-feba17840da2": {
+      "ProjectGuid": "4048e056-cc6e-4fda-8181-feba17840da2",
+      "DisplayName": "AverageGrades",
       "ColorIndex": 1
     },
-    "f0877419-74ae-4a19-a219-9508074cb7e0": {
-      "ProjectGuid": "f0877419-74ae-4a19-a219-9508074cb7e0",
-      "DisplayName": "IntersectionOfCircles",
+    "8a89549a-80c2-4eaf-bead-5299efe75a71": {
+      "ProjectGuid": "8a89549a-80c2-4eaf-bead-5299efe75a71",
+      "DisplayName": "StudentGroups",
       "ColorIndex": 2
-    },
-    "2e5c5e91-5aa9-41d8-abd8-f8e0eff16c39": {
-      "ProjectGuid": "2e5c5e91-5aa9-41d8-abd8-f8e0eff16c39",
-      "DisplayName": "BookLibrary",
-      "ColorIndex": 3
-    },
-    "7e158d39-5398-4771-b363-0d24a9bbadc9": {
-      "ProjectGuid": "7e158d39-5398-4771-b363-0d24a9bbadc9",
-      "DisplayName": "AndreyAndBilliard",
-      "ColorIndex": 4
-    },
-    "202a1125-c23e-41b9-ab10-a9706393c885": {
-      "ProjectGuid": "202a1125-c23e-41b9-ab10-a9706393c885",
-      "DisplayName": "MentorGroup",
-      "ColorIndex": 5
-    },
-    "e1b06cbc-3bc0-404d-be40-536c59e6c0f1": {
-      "ProjectGuid": "e1b06cbc-3bc0-404d-be40-536c59e6c0f1",
-      "DisplayName": "TeamworkProjects",
-      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 3
 }
