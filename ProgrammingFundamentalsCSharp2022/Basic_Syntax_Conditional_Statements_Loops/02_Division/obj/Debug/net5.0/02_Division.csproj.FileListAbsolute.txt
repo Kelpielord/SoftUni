@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\02_Division.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\02_Division.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\02_Division.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\02_Division.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\02_Division.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\ref\02_Division.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\bin\Debug\net5.0\02_Division.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\ref\02_Division.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\02_Division\obj\Debug\net5.0\02_Division.genruntimeconfig.cache

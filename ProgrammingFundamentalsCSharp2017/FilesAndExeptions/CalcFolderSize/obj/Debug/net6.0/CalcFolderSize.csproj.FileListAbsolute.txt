@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\bin\Debug\net6.0\CalcFolderSize.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\bin\Debug\net6.0\CalcFolderSize.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\bin\Debug\net6.0\CalcFolderSize.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\bin\Debug\net6.0\CalcFolderSize.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\bin\Debug\net6.0\ref\CalcFolderSize.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\bin\Debug\net6.0\CalcFolderSize.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\ref\CalcFolderSize.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2017\FilesAndExeptions\CalcFolderSize\obj\Debug\net6.0\CalcFolderSize.genruntimeconfig.cache

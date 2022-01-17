@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\0_3Vacation.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\0_3Vacation.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\0_3Vacation.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\0_3Vacation.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\0_3Vacation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\ref\0_3Vacation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\bin\Debug\net5.0\0_3Vacation.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\ref\0_3Vacation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\0_3Vacation\obj\Debug\net5.0\0_3Vacation.genruntimeconfig.cache

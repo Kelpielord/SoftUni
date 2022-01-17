@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1d8dfff-be20-42fd-badb-1fb29319e85c": {
+      "ProjectGuid": "d1d8dfff-be20-42fd-badb-1fb29319e85c",
+      "DisplayName": "CalcFolderSize",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

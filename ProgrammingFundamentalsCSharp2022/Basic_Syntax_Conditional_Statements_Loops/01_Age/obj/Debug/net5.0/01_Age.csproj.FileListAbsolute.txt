@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\01_Age.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\01_Age.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\01_Age.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\01_Age.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\01_Age.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\ref\01_Age.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\bin\Debug\net5.0\01_Age.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\ref\01_Age.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\01_Age\obj\Debug\net5.0\01_Age.genruntimeconfig.cache

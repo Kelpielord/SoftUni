@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\04_PrintAndSum.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\04_PrintAndSum.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\04_PrintAndSum.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\04_PrintAndSum.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\04_PrintAndSum.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\ref\04_PrintAndSum.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\bin\Debug\net5.0\04_PrintAndSum.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\ref\04_PrintAndSum.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\04_PrintAndSum\obj\Debug\net5.0\04_PrintAndSum.genruntimeconfig.cache
