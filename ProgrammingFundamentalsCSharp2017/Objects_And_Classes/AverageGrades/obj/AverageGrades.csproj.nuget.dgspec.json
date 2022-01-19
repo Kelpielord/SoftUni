@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selen\\Desktop\\CircleIntersection\\AverageGrades\\AverageGrades.csproj": {}
+    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AverageGrades\\AverageGrades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selen\\Desktop\\CircleIntersection\\AverageGrades\\AverageGrades.csproj": {
+    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AverageGrades\\AverageGrades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selen\\Desktop\\CircleIntersection\\AverageGrades\\AverageGrades.csproj",
+        "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AverageGrades\\AverageGrades.csproj",
         "projectName": "AverageGrades",
-        "projectPath": "C:\\Users\\selen\\Desktop\\CircleIntersection\\AverageGrades\\AverageGrades.csproj",
-        "packagesPath": "C:\\Users\\selen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selen\\Desktop\\CircleIntersection\\AverageGrades\\obj\\",
+        "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AverageGrades\\AverageGrades.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AverageGrades\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\selen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -35,7 +35,37 @@
       "ProjectGuid": "d9ca783e-ccfc-4e86-b7ca-7027f959711b",
       "DisplayName": "05_Login",
       "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5ea0007e-5bc0-471d-a591-67616ded39cf": {
+      "ProjectGuid": "5ea0007e-5bc0-471d-a591-67616ded39cf",
+      "DisplayName": "06_StrongNumber",
+      "ColorIndex": 7
+    },
+    "588a3ba2-6176-4a74-bd34-7dc4730ae365": {
+      "ProjectGuid": "588a3ba2-6176-4a74-bd34-7dc4730ae365",
+      "DisplayName": "07_VendingMachine",
+      "ColorIndex": 8
+    },
+    "68a53f05-7ef1-4e6f-99ac-95ae53c846a9": {
+      "ProjectGuid": "68a53f05-7ef1-4e6f-99ac-95ae53c846a9",
+      "DisplayName": "07_VendingMachine",
+      "ColorIndex": 9
+    },
+    "2e450d52-3d1b-4809-99e4-ebe12751ff0f": {
+      "ProjectGuid": "2e450d52-3d1b-4809-99e4-ebe12751ff0f",
+      "DisplayName": "03_Vacation",
+      "ColorIndex": 10
+    },
+    "77722b95-373f-425e-90db-70f11abc907a": {
+      "ProjectGuid": "77722b95-373f-425e-90db-70f11abc907a",
+      "DisplayName": "08_TriangleOfNumbers",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 12
 }
