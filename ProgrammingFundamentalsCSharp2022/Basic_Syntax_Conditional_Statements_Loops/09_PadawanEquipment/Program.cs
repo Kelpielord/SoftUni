@@ -11,9 +11,9 @@ namespace _09_PadawanEquipment
             float lightsabersPrice = float.Parse(Console.ReadLine());
             float robesPrice = float.Parse(Console.ReadLine());
             float beltsPrice = float.Parse(Console.ReadLine());
-            double bonusLightsabers = Math.Ceiling(studentCount + (studentCount * 0.10));
-            var result = 0.0;
-            var freeBelts = 0.0;
+            float bonusLightsabers = (float)Math.Ceiling(studentCount + (studentCount * 0.10));
+            float result = 0;
+            int freeBelts = 0;
             
 
             for (int i = 1; i <= studentCount; i++)
