@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\02_SumDigits.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\02_SumDigits.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\02_SumDigits.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\02_SumDigits.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\02_SumDigits.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\ref\02_SumDigits.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\bin\Debug\net5.0\02_SumDigits.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\ref\02_SumDigits.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\02_SumDigits\obj\Debug\net5.0\02_SumDigits.genruntimeconfig.cache

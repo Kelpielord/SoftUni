@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\06_TriplesOfLatinLetters.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\06_TriplesOfLatinLetters.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\06_TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\06_TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\06_TriplesOfLatinLetters.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\ref\06_TriplesOfLatinLetters.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\bin\Debug\net5.0\06_TriplesOfLatinLetters.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\ref\06_TriplesOfLatinLetters.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\06_TriplesOfLatinLetters\obj\Debug\net5.0\06_TriplesOfLatinLetters.genruntimeconfig.cache

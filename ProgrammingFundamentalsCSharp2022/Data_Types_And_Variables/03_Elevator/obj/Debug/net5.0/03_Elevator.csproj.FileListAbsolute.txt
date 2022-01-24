@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\03_Elevator.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\03_Elevator.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\03_Elevator.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\03_Elevator.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\03_Elevator.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\ref\03_Elevator.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\bin\Debug\net5.0\03_Elevator.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\ref\03_Elevator.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\03_Elevator\obj\Debug\net5.0\03_Elevator.genruntimeconfig.cache

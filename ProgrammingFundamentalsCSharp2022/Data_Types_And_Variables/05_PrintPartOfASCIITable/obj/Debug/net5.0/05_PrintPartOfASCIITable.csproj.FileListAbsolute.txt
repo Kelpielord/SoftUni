@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\05_PrintPartOfASCIITable.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\05_PrintPartOfASCIITable.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\05_PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\05_PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\05_PrintPartOfASCIITable.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\ref\05_PrintPartOfASCIITable.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\bin\Debug\net5.0\05_PrintPartOfASCIITable.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\ref\05_PrintPartOfASCIITable.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\05_PrintPartOfASCIITable\obj\Debug\net5.0\05_PrintPartOfASCIITable.genruntimeconfig.cache

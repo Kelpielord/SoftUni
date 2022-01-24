@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ness\\.nuget\\packages\\": {}
+    "C:\\Users\\Kelpie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Basic_Syntax_Conditional_Statements_Loops\\01_Age\\01_Age.csproj",
+      "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Basic_Syntax_Conditional_Statements_Loops\\01_Age\\01_Age.csproj",
       "projectName": "01_Age",
-      "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Basic_Syntax_Conditional_Statements_Loops\\01_Age\\01_Age.csproj",
-      "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Basic_Syntax_Conditional_Statements_Loops\\01_Age\\obj\\",
+      "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Basic_Syntax_Conditional_Statements_Loops\\01_Age\\01_Age.csproj",
+      "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Basic_Syntax_Conditional_Statements_Loops\\01_Age\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

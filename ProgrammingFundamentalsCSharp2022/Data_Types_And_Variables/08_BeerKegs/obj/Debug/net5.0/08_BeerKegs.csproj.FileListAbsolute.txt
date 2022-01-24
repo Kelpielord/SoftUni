@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\08_BeerKegs.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\08_BeerKegs.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\08_BeerKegs.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\08_BeerKegs.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\08_BeerKegs.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\ref\08_BeerKegs.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\bin\Debug\net5.0\08_BeerKegs.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\ref\08_BeerKegs.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\08_BeerKegs\obj\Debug\net5.0\08_BeerKegs.genruntimeconfig.cache

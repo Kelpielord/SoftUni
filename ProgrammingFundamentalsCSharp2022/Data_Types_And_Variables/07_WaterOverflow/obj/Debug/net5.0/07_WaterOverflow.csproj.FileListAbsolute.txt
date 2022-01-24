@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\07_WaterOverflow.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\07_WaterOverflow.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\07_WaterOverflow.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\07_WaterOverflow.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\07_WaterOverflow.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\ref\07_WaterOverflow.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\bin\Debug\net5.0\07_WaterOverflow.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\ref\07_WaterOverflow.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\07_WaterOverflow\obj\Debug\net5.0\07_WaterOverflow.genruntimeconfig.cache

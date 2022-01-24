@@ -65,7 +65,27 @@
       "ProjectGuid": "77722b95-373f-425e-90db-70f11abc907a",
       "DisplayName": "08_TriangleOfNumbers",
       "ColorIndex": 11
+    },
+    "ec7c952a-6c04-4ce6-97df-aa163c4381de": {
+      "ProjectGuid": "ec7c952a-6c04-4ce6-97df-aa163c4381de",
+      "DisplayName": "09_PadawanEquipment",
+      "ColorIndex": 12
+    },
+    "2d336bd1-e388-4124-af65-7a5625232bf4": {
+      "ProjectGuid": "2d336bd1-e388-4124-af65-7a5625232bf4",
+      "DisplayName": "09_PadawanEquipment",
+      "ColorIndex": 13
+    },
+    "264006d4-800f-4906-81ed-0390c9e2e03d": {
+      "ProjectGuid": "264006d4-800f-4906-81ed-0390c9e2e03d",
+      "DisplayName": "10_RageExpenses",
+      "ColorIndex": 14
+    },
+    "83f611cf-4a91-4590-ac75-daeb5c68617f": {
+      "ProjectGuid": "83f611cf-4a91-4590-ac75-daeb5c68617f",
+      "DisplayName": "11_Orders",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 0
 }

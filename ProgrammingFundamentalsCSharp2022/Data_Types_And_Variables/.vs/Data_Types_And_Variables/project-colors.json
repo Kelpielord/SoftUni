@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb1bd03d-f607-41ce-b0d6-9698dafe59db": {
+      "ProjectGuid": "bb1bd03d-f607-41ce-b0d6-9698dafe59db",
+      "DisplayName": "01_IntegerOperations",
+      "ColorIndex": 0
+    },
+    "221f3655-973a-4c89-bfae-3e4ba289d501": {
+      "ProjectGuid": "221f3655-973a-4c89-bfae-3e4ba289d501",
+      "DisplayName": "02_SumDigits",
+      "ColorIndex": 1
+    },
+    "87338965-c851-449b-a7ff-791ad9e9eef3": {
+      "ProjectGuid": "87338965-c851-449b-a7ff-791ad9e9eef3",
+      "DisplayName": "03_Elevator",
+      "ColorIndex": 2
+    },
+    "fe5c2c10-3d9d-440b-a831-b9b2316a9ba5": {
+      "ProjectGuid": "fe5c2c10-3d9d-440b-a831-b9b2316a9ba5",
+      "DisplayName": "04_SumOfChars",
+      "ColorIndex": 3
+    },
+    "10ad9f7c-a7c5-4d60-8d93-73856ee51bd5": {
+      "ProjectGuid": "10ad9f7c-a7c5-4d60-8d93-73856ee51bd5",
+      "DisplayName": "05_PrintPartOfASCIITable",
+      "ColorIndex": 4
+    },
+    "e31d6154-7720-41de-8b94-322f014a55ec": {
+      "ProjectGuid": "e31d6154-7720-41de-8b94-322f014a55ec",
+      "DisplayName": "06_TriplesOfLatinLetters",
+      "ColorIndex": 5
+    },
+    "55fb781c-1134-49e4-98bb-17894827b5c5": {
+      "ProjectGuid": "55fb781c-1134-49e4-98bb-17894827b5c5",
+      "DisplayName": "07_WaterOverflow",
+      "ColorIndex": 6
+    },
+    "b8e929b7-fedb-41db-b2db-0445398ca782": {
+      "ProjectGuid": "b8e929b7-fedb-41db-b2db-0445398ca782",
+      "DisplayName": "08_BeerKegs",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

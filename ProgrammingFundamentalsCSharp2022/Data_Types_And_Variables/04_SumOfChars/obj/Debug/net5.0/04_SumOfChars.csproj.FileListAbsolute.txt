@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\04_SumOfChars.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\04_SumOfChars.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\04_SumOfChars.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\04_SumOfChars.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\04_SumOfChars.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\ref\04_SumOfChars.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\bin\Debug\net5.0\04_SumOfChars.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\ref\04_SumOfChars.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\04_SumOfChars\obj\Debug\net5.0\04_SumOfChars.genruntimeconfig.cache

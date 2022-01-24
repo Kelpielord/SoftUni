@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\10_RageExpenses.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\10_RageExpenses.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\10_RageExpenses.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\10_RageExpenses.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\10_RageExpenses.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\ref\10_RageExpenses.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\bin\Debug\net5.0\10_RageExpenses.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\ref\10_RageExpenses.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Basic_Syntax_Conditional_Statements_Loops\10_RageExpenses\obj\Debug\net5.0\10_RageExpenses.genruntimeconfig.cache

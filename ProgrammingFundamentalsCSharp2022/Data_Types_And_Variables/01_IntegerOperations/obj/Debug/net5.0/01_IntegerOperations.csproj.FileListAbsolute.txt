@@ -1,0 +1,15 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\01_IntegerOperations.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\01_IntegerOperations.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\01_IntegerOperations.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\01_IntegerOperations.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\01_IntegerOperations.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\ref\01_IntegerOperations.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\bin\Debug\net5.0\01_IntegerOperations.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\ref\01_IntegerOperations.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\01_IntegerOperations\obj\Debug\net5.0\01_IntegerOperations.genruntimeconfig.cache
