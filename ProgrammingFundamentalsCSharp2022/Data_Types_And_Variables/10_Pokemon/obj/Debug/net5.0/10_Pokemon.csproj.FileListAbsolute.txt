@@ -1,0 +1,16 @@
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.AssemblyInfoInputs.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.AssemblyInfo.cs
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\10_Pokemon.exe
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\10_Pokemon.deps.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\10_Pokemon.runtimeconfig.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\10_Pokemon.runtimeconfig.dev.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\10_Pokemon.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\ref\10_Pokemon.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\bin\Debug\net5.0\10_Pokemon.pdb
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\ref\10_Pokemon.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.pdb
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.genruntimeconfig.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\10_Pokemon\obj\Debug\net5.0\10_Pokemon.csproj.AssemblyReference.cache

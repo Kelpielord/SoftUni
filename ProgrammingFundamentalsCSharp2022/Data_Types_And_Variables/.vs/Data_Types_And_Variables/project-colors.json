@@ -40,7 +40,22 @@
       "ProjectGuid": "b8e929b7-fedb-41db-b2db-0445398ca782",
       "DisplayName": "08_BeerKegs",
       "ColorIndex": 7
+    },
+    "ca85bf3c-f046-4e8c-9259-29d195a0770b": {
+      "ProjectGuid": "ca85bf3c-f046-4e8c-9259-29d195a0770b",
+      "DisplayName": "09_SpiceMustFlow",
+      "ColorIndex": 8
+    },
+    "7eada59c-6c3a-4ae3-a899-914fca1f4f78": {
+      "ProjectGuid": "7eada59c-6c3a-4ae3-a899-914fca1f4f78",
+      "DisplayName": "10_Pokemon",
+      "ColorIndex": 9
+    },
+    "57809fdb-e20c-4d97-ac10-f17bf9584132": {
+      "ProjectGuid": "57809fdb-e20c-4d97-ac10-f17bf9584132",
+      "DisplayName": "11_Snowballs",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }

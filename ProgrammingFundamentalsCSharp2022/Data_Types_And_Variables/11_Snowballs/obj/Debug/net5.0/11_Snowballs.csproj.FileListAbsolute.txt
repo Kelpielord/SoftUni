@@ -1,0 +1,16 @@
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\11_Snowballs.exe
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\11_Snowballs.deps.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\11_Snowballs.runtimeconfig.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\11_Snowballs.runtimeconfig.dev.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\11_Snowballs.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\ref\11_Snowballs.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\bin\Debug\net5.0\11_Snowballs.pdb
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.csproj.AssemblyReference.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.AssemblyInfoInputs.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.AssemblyInfo.cs
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\ref\11_Snowballs.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.pdb
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\11_Snowballs\obj\Debug\net5.0\11_Snowballs.genruntimeconfig.cache

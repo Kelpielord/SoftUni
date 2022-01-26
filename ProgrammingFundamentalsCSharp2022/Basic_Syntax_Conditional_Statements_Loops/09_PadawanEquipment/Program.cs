@@ -14,7 +14,6 @@ namespace _09_PadawanEquipment
             float bonusLightsabers = (float)Math.Ceiling(studentCount + (studentCount * 0.10));
             float result = 0;
             int freeBelts = 0;
-            
 
             for (int i = 1; i <= studentCount; i++)
             {
@@ -22,7 +21,6 @@ namespace _09_PadawanEquipment
                 {
                     freeBelts++;
                 }
-
             }
 
             result = lightsabersPrice * bonusLightsabers + robesPrice * studentCount + beltsPrice * (studentCount - freeBelts);

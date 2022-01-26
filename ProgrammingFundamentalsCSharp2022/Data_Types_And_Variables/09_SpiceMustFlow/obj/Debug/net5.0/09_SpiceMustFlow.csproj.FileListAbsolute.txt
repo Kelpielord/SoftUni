@@ -1,0 +1,15 @@
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\09_SpiceMustFlow.exe
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\09_SpiceMustFlow.deps.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\09_SpiceMustFlow.runtimeconfig.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\09_SpiceMustFlow.runtimeconfig.dev.json
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\09_SpiceMustFlow.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\ref\09_SpiceMustFlow.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\bin\Debug\net5.0\09_SpiceMustFlow.pdb
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.AssemblyInfo.cs
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\ref\09_SpiceMustFlow.dll
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.pdb
+C:\Users\Ness\OneDrive - Software University (SoftUni)\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Data_Types_And_Variables\09_SpiceMustFlow\obj\Debug\net5.0\09_SpiceMustFlow.genruntimeconfig.cache
