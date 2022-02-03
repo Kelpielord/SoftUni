@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\03_Zig-ZagArrays.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\03_Zig-ZagArrays.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\03_Zig-ZagArrays.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\03_Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\03_Zig-ZagArrays.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\ref\03_Zig-ZagArrays.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\bin\Debug\net5.0\03_Zig-ZagArrays.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\ref\03_Zig-ZagArrays.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\03_Zig-ZagArrays\obj\Debug\net5.0\03_Zig-ZagArrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\01_Train.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\01_Train.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\01_Train.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\01_Train.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\01_Train.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\ref\01_Train.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\bin\Debug\net5.0\01_Train.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\ref\01_Train.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\01_Train\obj\Debug\net5.0\01_Train.genruntimeconfig.cache

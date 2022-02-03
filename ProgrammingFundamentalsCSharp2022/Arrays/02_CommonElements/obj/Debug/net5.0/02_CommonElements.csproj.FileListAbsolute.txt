@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\02_CommonElements.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\02_CommonElements.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\02_CommonElements.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\02_CommonElements.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\02_CommonElements.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\ref\02_CommonElements.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\bin\Debug\net5.0\02_CommonElements.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\ref\02_CommonElements.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\02_CommonElements\obj\Debug\net5.0\02_CommonElements.genruntimeconfig.cache

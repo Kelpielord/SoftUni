@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04fcbff8-2bdb-4201-8821-d615ef7e7999": {
+      "ProjectGuid": "04fcbff8-2bdb-4201-8821-d615ef7e7999",
+      "DisplayName": "01_Train",
+      "ColorIndex": 0
+    },
+    "b0f8f0b2-96b7-4762-8963-62134c6daa70": {
+      "ProjectGuid": "b0f8f0b2-96b7-4762-8963-62134c6daa70",
+      "DisplayName": "02_CommonElements",
+      "ColorIndex": 1
+    },
+    "c2a112f8-0135-482c-b142-06903faec11e": {
+      "ProjectGuid": "c2a112f8-0135-482c-b142-06903faec11e",
+      "DisplayName": "03_Zig-ZagArrays",
+      "ColorIndex": 2
+    },
+    "47faafd7-2596-418b-8ed1-57cae74f87be": {
+      "ProjectGuid": "47faafd7-2596-418b-8ed1-57cae74f87be",
+      "DisplayName": "4_ArrayRotation",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

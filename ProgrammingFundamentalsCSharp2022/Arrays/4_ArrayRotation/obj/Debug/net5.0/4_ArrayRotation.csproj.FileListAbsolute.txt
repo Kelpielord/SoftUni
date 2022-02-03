@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\4_ArrayRotation.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\4_ArrayRotation.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\4_ArrayRotation.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\4_ArrayRotation.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\4_ArrayRotation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\ref\4_ArrayRotation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\bin\Debug\net5.0\4_ArrayRotation.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\ref\4_ArrayRotation.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\4_ArrayRotation\obj\Debug\net5.0\4_ArrayRotation.genruntimeconfig.cache
