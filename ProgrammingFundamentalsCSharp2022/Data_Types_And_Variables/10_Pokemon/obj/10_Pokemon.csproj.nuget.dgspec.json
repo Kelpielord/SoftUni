@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj",
         "projectName": "10_Pokemon",
-        "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\10_Pokemon.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\obj\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\10_Pokemon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

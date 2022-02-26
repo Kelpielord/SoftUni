@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\08_FactorialDivision.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\08_FactorialDivision.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\08_FactorialDivision.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\08_FactorialDivision.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\08_FactorialDivision.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\ref\08_FactorialDivision.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\bin\Debug\net5.0\08_FactorialDivision.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\ref\08_FactorialDivision.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\08_FactorialDivision\obj\Debug\net5.0\08_FactorialDivision.genruntimeconfig.cache

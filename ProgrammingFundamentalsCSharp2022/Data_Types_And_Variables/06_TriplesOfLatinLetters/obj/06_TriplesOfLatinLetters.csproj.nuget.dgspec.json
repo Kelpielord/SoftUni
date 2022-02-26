@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj",
         "projectName": "06_TriplesOfLatinLetters",
-        "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\06_TriplesOfLatinLetters.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\obj\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\06_TriplesOfLatinLetters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

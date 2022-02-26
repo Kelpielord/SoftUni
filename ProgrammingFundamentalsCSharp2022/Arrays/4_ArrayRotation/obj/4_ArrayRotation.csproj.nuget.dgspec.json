@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj",
         "projectName": "4_ArrayRotation",
-        "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj",
-        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\obj\\",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

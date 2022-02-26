@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\06_MiddleCharacters.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\06_MiddleCharacters.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\06_MiddleCharacters.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\06_MiddleCharacters.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\06_MiddleCharacters.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\ref\06_MiddleCharacters.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\bin\Debug\net5.0\06_MiddleCharacters.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\ref\06_MiddleCharacters.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\06_MiddleCharacters\obj\Debug\net5.0\06_MiddleCharacters.genruntimeconfig.cache

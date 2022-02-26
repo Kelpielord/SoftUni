@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\07_NxNMatrix.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\07_NxNMatrix.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\07_NxNMatrix.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\07_NxNMatrix.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\07_NxNMatrix.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\ref\07_NxNMatrix.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\bin\Debug\net5.0\07_NxNMatrix.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\ref\07_NxNMatrix.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\07_NxNMatrix\obj\Debug\net5.0\07_NxNMatrix.genruntimeconfig.cache

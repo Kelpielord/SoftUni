@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj",
         "projectName": "04_SumOfChars",
-        "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\04_SumOfChars.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\obj\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\04_SumOfChars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

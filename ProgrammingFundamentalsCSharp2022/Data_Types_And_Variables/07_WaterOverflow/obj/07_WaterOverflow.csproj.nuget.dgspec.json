@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj",
         "projectName": "07_WaterOverflow",
-        "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\07_WaterOverflow.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\obj\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\07_WaterOverflow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

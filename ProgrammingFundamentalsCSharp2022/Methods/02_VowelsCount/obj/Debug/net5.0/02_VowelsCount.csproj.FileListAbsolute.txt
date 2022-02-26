@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\02_VowelsCount.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\02_VowelsCount.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\02_VowelsCount.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\02_VowelsCount.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\02_VowelsCount.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\ref\02_VowelsCount.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\bin\Debug\net5.0\02_VowelsCount.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\ref\02_VowelsCount.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\02_VowelsCount\obj\Debug\net5.0\02_VowelsCount.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\02_SumDigits\\02_SumDigits.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\02_SumDigits\\02_SumDigits.csproj",
       "projectName": "02_SumDigits",
-      "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\02_SumDigits\\02_SumDigits.csproj",
+      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\02_SumDigits\\02_SumDigits.csproj",
       "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\02_SumDigits\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\02_SumDigits\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

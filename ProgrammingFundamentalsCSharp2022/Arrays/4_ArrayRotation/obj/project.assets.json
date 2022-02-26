@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kelpie\\.nuget\\packages\\": {}
+    "C:\\Users\\Ness\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj",
-      "projectName": "4_ArrayRotation",
-      "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\4_ArrayRotation.csproj",
-      "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\obj\\",
+      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\04_ArrayRotation.csproj",
+      "projectName": "04_ArrayRotation",
+      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\04_ArrayRotation.csproj",
+      "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\4_ArrayRotation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

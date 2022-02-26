@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\Experience.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\Experience.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\Experience.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\Experience.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\Experience.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\ref\Experience.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\bin\Debug\net5.0\Experience.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\ref\Experience.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\Test\obj\Debug\net5.0\Experience.genruntimeconfig.cache

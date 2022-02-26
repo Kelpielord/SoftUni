@@ -10,6 +10,8 @@ namespace _02_CommonElements
             string[] arr1 = Console.ReadLine().Split(' ');
             string[] arr2 = Console.ReadLine().Split(' ');
             List<string> sameWords = new List<string>();
+
+
             foreach (string word in arr2)
             {
                 int wordsPos = Array.IndexOf(arr1, word);

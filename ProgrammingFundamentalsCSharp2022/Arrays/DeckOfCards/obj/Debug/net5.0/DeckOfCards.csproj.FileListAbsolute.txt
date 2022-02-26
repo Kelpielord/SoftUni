@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\DeckOfCards.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\DeckOfCards.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\DeckOfCards.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\DeckOfCards.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\DeckOfCards.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\ref\DeckOfCards.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\bin\Debug\net5.0\DeckOfCards.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\ref\DeckOfCards.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\DeckOfCards\obj\Debug\net5.0\DeckOfCards.genruntimeconfig.cache

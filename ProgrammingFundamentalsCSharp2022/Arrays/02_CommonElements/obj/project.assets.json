@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kelpie\\.nuget\\packages\\": {}
+    "C:\\Users\\Ness\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\02_CommonElements\\02_CommonElements.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\02_CommonElements\\02_CommonElements.csproj",
       "projectName": "02_CommonElements",
-      "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\02_CommonElements\\02_CommonElements.csproj",
-      "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\02_CommonElements\\obj\\",
+      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\02_CommonElements\\02_CommonElements.csproj",
+      "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\02_CommonElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

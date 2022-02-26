@@ -18,9 +18,49 @@
     },
     "47faafd7-2596-418b-8ed1-57cae74f87be": {
       "ProjectGuid": "47faafd7-2596-418b-8ed1-57cae74f87be",
-      "DisplayName": "4_ArrayRotation",
+      "DisplayName": "04_ArrayRotation",
       "ColorIndex": 3
+    },
+    "34d4758c-b893-4882-bfa7-d7b5fd1f5d31": {
+      "ProjectGuid": "34d4758c-b893-4882-bfa7-d7b5fd1f5d31",
+      "DisplayName": "05_TopIntegers",
+      "ColorIndex": 4
+    },
+    "44deb4f7-d42d-4736-8947-f4ef853ff3d1": {
+      "ProjectGuid": "44deb4f7-d42d-4736-8947-f4ef853ff3d1",
+      "DisplayName": "06_EqualSum",
+      "ColorIndex": 5
+    },
+    "c65ef85b-f04b-4d84-a76e-58f41257d3fa": {
+      "ProjectGuid": "c65ef85b-f04b-4d84-a76e-58f41257d3fa",
+      "DisplayName": "07_MaxSequenceOfEqualElements",
+      "ColorIndex": 6
+    },
+    "3f9e012b-3009-49d1-8eec-bfc95b077f7a": {
+      "ProjectGuid": "3f9e012b-3009-49d1-8eec-bfc95b077f7a",
+      "DisplayName": "08_MagicSum",
+      "ColorIndex": 7
+    },
+    "8c589804-728c-4a89-87de-0066734e38f3": {
+      "ProjectGuid": "8c589804-728c-4a89-87de-0066734e38f3",
+      "DisplayName": "09_KaminoFactory",
+      "ColorIndex": 8
+    },
+    "071f7be8-4450-474c-aa6d-137ea0fc7568": {
+      "ProjectGuid": "071f7be8-4450-474c-aa6d-137ea0fc7568",
+      "DisplayName": "Experience",
+      "ColorIndex": 9
+    },
+    "72c37e01-f388-41ee-b0cb-0b011cdf50bd": {
+      "ProjectGuid": "72c37e01-f388-41ee-b0cb-0b011cdf50bd",
+      "DisplayName": "SpaceTravel",
+      "ColorIndex": 10
+    },
+    "2b45e223-e9b4-4746-b02e-ffcf13fbfd22": {
+      "ProjectGuid": "2b45e223-e9b4-4746-b02e-ffcf13fbfd22",
+      "DisplayName": "DeckOfCards",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 12
 }

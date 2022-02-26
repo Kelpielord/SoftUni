@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\SpaceTravel.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\SpaceTravel.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\SpaceTravel.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\SpaceTravel.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\SpaceTravel.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\ref\SpaceTravel.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\bin\Debug\net5.0\SpaceTravel.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\ref\SpaceTravel.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\SpaceTravel\obj\Debug\net5.0\SpaceTravel.genruntimeconfig.cache

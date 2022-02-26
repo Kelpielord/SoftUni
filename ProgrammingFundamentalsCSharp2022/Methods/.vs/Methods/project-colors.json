@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b710b1c4-9f35-4dcc-9e45-627d00afeb9b": {
+      "ProjectGuid": "b710b1c4-9f35-4dcc-9e45-627d00afeb9b",
+      "DisplayName": "Test",
+      "ColorIndex": 0
+    },
+    "e8bfe5ab-f039-47a0-8fea-1640f894752f": {
+      "ProjectGuid": "e8bfe5ab-f039-47a0-8fea-1640f894752f",
+      "DisplayName": "01_SmallestOfThreeNumbers",
+      "ColorIndex": 1
+    },
+    "851e53f5-e3ca-445a-96bd-6a1f613cd66e": {
+      "ProjectGuid": "851e53f5-e3ca-445a-96bd-6a1f613cd66e",
+      "DisplayName": "02_VowelsCount",
+      "ColorIndex": 2
+    },
+    "3df68544-8ba4-46da-8bea-d7c1ba5aeea8": {
+      "ProjectGuid": "3df68544-8ba4-46da-8bea-d7c1ba5aeea8",
+      "DisplayName": "03_CharactersInRange",
+      "ColorIndex": 3
+    },
+    "7f32bcb5-25a4-4773-b7fb-e69c6f2eeb99": {
+      "ProjectGuid": "7f32bcb5-25a4-4773-b7fb-e69c6f2eeb99",
+      "DisplayName": "04_PasswordValidator",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bc738ca8-3e41-4fec-ab27-a699f5064026": {
+      "ProjectGuid": "bc738ca8-3e41-4fec-ab27-a699f5064026",
+      "DisplayName": "05_AddAndSubtract",
+      "ColorIndex": 5
+    },
+    "cea1035a-1fad-40fa-b7f3-446ecc5a76d7": {
+      "ProjectGuid": "cea1035a-1fad-40fa-b7f3-446ecc5a76d7",
+      "DisplayName": "06_MiddleCharacters",
+      "ColorIndex": 6
+    },
+    "93fb10cc-d07f-456d-bbe4-4b232a3d2e8c": {
+      "ProjectGuid": "93fb10cc-d07f-456d-bbe4-4b232a3d2e8c",
+      "DisplayName": "07_NxNMatrix",
+      "ColorIndex": 7
+    },
+    "a00473bf-cbe8-4647-b668-ad08a87e5090": {
+      "ProjectGuid": "a00473bf-cbe8-4647-b668-ad08a87e5090",
+      "DisplayName": "08_FactorialDivision",
+      "ColorIndex": 8
+    },
+    "6eadf188-f5ac-44cd-989a-878a0ae79bf3": {
+      "ProjectGuid": "6eadf188-f5ac-44cd-989a-878a0ae79bf3",
+      "DisplayName": "09_PalindromeIntegers",
+      "ColorIndex": 9
+    },
+    "e563dbc6-11c5-46fe-97a2-66e62bbf32d9": {
+      "ProjectGuid": "e563dbc6-11c5-46fe-97a2-66e62bbf32d9",
+      "DisplayName": "10_TopNumber",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

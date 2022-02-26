@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\06_EqualSum.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\06_EqualSum.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\06_EqualSum.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\06_EqualSum.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\06_EqualSum.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\ref\06_EqualSum.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\bin\Debug\net5.0\06_EqualSum.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\ref\06_EqualSum.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\06_EqualSum\obj\Debug\net5.0\06_EqualSum.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\01_SmallestOfThreeNumbers.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\01_SmallestOfThreeNumbers.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\01_SmallestOfThreeNumbers.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\01_SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\01_SmallestOfThreeNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\ref\01_SmallestOfThreeNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\bin\Debug\net5.0\01_SmallestOfThreeNumbers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\ref\01_SmallestOfThreeNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\01_SmallestOfThreeNumbers\obj\Debug\net5.0\01_SmallestOfThreeNumbers.genruntimeconfig.cache

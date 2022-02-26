@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\05_PrintPartOfASCIITable\\05_PrintPartOfASCIITable.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\05_PrintPartOfASCIITable\\05_PrintPartOfASCIITable.csproj",
       "projectName": "05_PrintPartOfASCIITable",
-      "projectPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\05_PrintPartOfASCIITable\\05_PrintPartOfASCIITable.csproj",
+      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\05_PrintPartOfASCIITable\\05_PrintPartOfASCIITable.csproj",
       "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ness\\OneDrive - Software University (SoftUni)\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\05_PrintPartOfASCIITable\\obj\\",
+      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Data_Types_And_Variables\\05_PrintPartOfASCIITable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

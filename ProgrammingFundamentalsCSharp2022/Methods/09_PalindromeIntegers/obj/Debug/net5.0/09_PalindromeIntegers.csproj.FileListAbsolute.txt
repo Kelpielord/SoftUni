@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\09_PalindromeIntegers.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\09_PalindromeIntegers.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\09_PalindromeIntegers.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\09_PalindromeIntegers.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\09_PalindromeIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\ref\09_PalindromeIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\bin\Debug\net5.0\09_PalindromeIntegers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\ref\09_PalindromeIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\09_PalindromeIntegers\obj\Debug\net5.0\09_PalindromeIntegers.genruntimeconfig.cache

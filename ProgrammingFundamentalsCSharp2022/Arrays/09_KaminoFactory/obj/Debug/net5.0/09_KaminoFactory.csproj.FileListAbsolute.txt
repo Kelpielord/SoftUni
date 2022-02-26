@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\09_KaminoFactory.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\09_KaminoFactory.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\09_KaminoFactory.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\09_KaminoFactory.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\09_KaminoFactory.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\ref\09_KaminoFactory.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\bin\Debug\net5.0\09_KaminoFactory.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\ref\09_KaminoFactory.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\09_KaminoFactory\obj\Debug\net5.0\09_KaminoFactory.genruntimeconfig.cache

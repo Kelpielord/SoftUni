@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace _4_ArrayRotation
+namespace _04_ArrayRotation
 {
     internal class Program
     {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj",
         "projectName": "01_Train",
-        "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj",
-        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\obj\\",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\01_Train.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Arrays\\01_Train\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

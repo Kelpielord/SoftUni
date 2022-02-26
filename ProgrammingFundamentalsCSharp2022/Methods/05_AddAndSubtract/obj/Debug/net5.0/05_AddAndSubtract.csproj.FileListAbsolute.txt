@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\05_AddAndSubtract.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\05_AddAndSubtract.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\05_AddAndSubtract.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\05_AddAndSubtract.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\05_AddAndSubtract.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\ref\05_AddAndSubtract.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\bin\Debug\net5.0\05_AddAndSubtract.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\ref\05_AddAndSubtract.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Methods\05_AddAndSubtract\obj\Debug\net5.0\05_AddAndSubtract.genruntimeconfig.cache

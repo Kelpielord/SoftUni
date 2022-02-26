@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\05_TopIntegers.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\05_TopIntegers.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\05_TopIntegers.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\05_TopIntegers.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\05_TopIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\ref\05_TopIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\bin\Debug\net5.0\05_TopIntegers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\ref\05_TopIntegers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Arrays\05_TopIntegers\obj\Debug\net5.0\05_TopIntegers.genruntimeconfig.cache
