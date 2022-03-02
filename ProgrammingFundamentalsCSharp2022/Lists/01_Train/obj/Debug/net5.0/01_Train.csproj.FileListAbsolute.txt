@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\01_Train.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\01_Train.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\01_Train.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\01_Train.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\01_Train.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\ref\01_Train.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\bin\Debug\net5.0\01_Train.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\ref\01_Train.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\01_Train\obj\Debug\net5.0\01_Train.genruntimeconfig.cache

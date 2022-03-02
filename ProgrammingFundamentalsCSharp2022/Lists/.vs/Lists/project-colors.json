@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e6cb607-3ec4-471e-932b-177725cc685f": {
+      "ProjectGuid": "9e6cb607-3ec4-471e-932b-177725cc685f",
+      "DisplayName": "Test",
+      "ColorIndex": 0
+    },
+    "58a8e617-d646-468f-b8f7-a4717fdf4db3": {
+      "ProjectGuid": "58a8e617-d646-468f-b8f7-a4717fdf4db3",
+      "DisplayName": "01_Train",
+      "ColorIndex": 1
+    },
+    "a5208e8a-4f7d-4da9-b811-4b294309cd61": {
+      "ProjectGuid": "a5208e8a-4f7d-4da9-b811-4b294309cd61",
+      "DisplayName": "02_ChangeList",
+      "ColorIndex": 2
+    },
+    "7cd15aa6-3891-4ffe-a70b-eb84393a59b1": {
+      "ProjectGuid": "7cd15aa6-3891-4ffe-a70b-eb84393a59b1",
+      "DisplayName": "03_HouseParty",
+      "ColorIndex": 3
+    },
+    "d4bc4cb8-3f00-471b-88c4-12274c603792": {
+      "ProjectGuid": "d4bc4cb8-3f00-471b-88c4-12274c603792",
+      "DisplayName": "04_ListOperations",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1f4ae17c-a808-403e-9dd2-4cceb52c758c": {
+      "ProjectGuid": "1f4ae17c-a808-403e-9dd2-4cceb52c758c",
+      "DisplayName": "test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

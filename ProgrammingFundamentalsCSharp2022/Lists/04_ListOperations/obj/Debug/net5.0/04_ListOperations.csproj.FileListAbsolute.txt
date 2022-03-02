@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\04_ListOperations.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\04_ListOperations.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\04_ListOperations.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\04_ListOperations.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\04_ListOperations.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\ref\04_ListOperations.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\bin\Debug\net5.0\04_ListOperations.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\ref\04_ListOperations.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\04_ListOperations\obj\Debug\net5.0\04_ListOperations.genruntimeconfig.cache

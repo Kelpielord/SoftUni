@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\02_ChangeList.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\02_ChangeList.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\02_ChangeList.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\02_ChangeList.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\02_ChangeList.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\ref\02_ChangeList.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\bin\Debug\net5.0\02_ChangeList.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\ref\02_ChangeList.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\02_ChangeList\obj\Debug\net5.0\02_ChangeList.genruntimeconfig.cache

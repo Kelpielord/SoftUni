@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\03_HouseParty.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\03_HouseParty.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\03_HouseParty.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\03_HouseParty.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\03_HouseParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\ref\03_HouseParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\bin\Debug\net5.0\03_HouseParty.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\ref\03_HouseParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\03_HouseParty\obj\Debug\net5.0\03_HouseParty.genruntimeconfig.cache
