@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cba346e0-e6b7-4d4e-bbea-91fb0cf8909e": {
+      "ProjectGuid": "cba346e0-e6b7-4d4e-bbea-91fb0cf8909e",
+      "DisplayName": "01_AdvertisementMessage",
+      "ColorIndex": 0
+    },
+    "e3dafd28-face-4120-a49c-eb50c9ba68ed": {
+      "ProjectGuid": "e3dafd28-face-4120-a49c-eb50c9ba68ed",
+      "DisplayName": "02_Articles",
+      "ColorIndex": 1
+    },
+    "a078ac6e-ad44-4878-9ead-be3408f46367": {
+      "ProjectGuid": "a078ac6e-ad44-4878-9ead-be3408f46367",
+      "DisplayName": "03_Articles2_0",
+      "ColorIndex": 2
+    },
+    "4a571bb6-f0e9-4760-92ac-d832099f995a": {
+      "ProjectGuid": "4a571bb6-f0e9-4760-92ac-d832099f995a",
+      "DisplayName": "04_Students",
+      "ColorIndex": 3
+    },
+    "3ef2de10-04fa-49a7-b622-5c379bbf175b": {
+      "ProjectGuid": "3ef2de10-04fa-49a7-b622-5c379bbf175b",
+      "DisplayName": "05_TeamworkProjects",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\02_Articles.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\02_Articles.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\02_Articles.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\02_Articles.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\02_Articles.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\ref\02_Articles.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\bin\Debug\net5.0\02_Articles.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\ref\02_Articles.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\02_Articles\obj\Debug\net5.0\02_Articles.genruntimeconfig.cache

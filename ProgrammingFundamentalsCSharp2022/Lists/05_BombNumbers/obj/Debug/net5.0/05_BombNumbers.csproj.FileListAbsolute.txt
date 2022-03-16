@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\05_BombNumbers.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\05_BombNumbers.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\05_BombNumbers.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\05_BombNumbers.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\05_BombNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\ref\05_BombNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\bin\Debug\net5.0\05_BombNumbers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\ref\05_BombNumbers.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.genruntimeconfig.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\05_BombNumbers\obj\Debug\net5.0\05_BombNumbers.csproj.AssemblyReference.cache

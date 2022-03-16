@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\05_TeamworkProjects.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\05_TeamworkProjects.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\05_TeamworkProjects.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\05_TeamworkProjects.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\05_TeamworkProjects.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\ref\05_TeamworkProjects.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\bin\Debug\net5.0\05_TeamworkProjects.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\ref\05_TeamworkProjects.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\05_TeamworkProjects\obj\Debug\net5.0\05_TeamworkProjects.genruntimeconfig.cache

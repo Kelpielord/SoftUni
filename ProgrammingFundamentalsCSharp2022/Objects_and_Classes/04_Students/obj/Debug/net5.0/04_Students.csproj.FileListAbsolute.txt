@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\04_Students.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\04_Students.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\04_Students.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\04_Students.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\04_Students.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\ref\04_Students.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\bin\Debug\net5.0\04_Students.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\ref\04_Students.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\04_Students\obj\Debug\net5.0\04_Students.genruntimeconfig.cache

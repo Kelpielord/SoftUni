@@ -1,0 +1,15 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\07_AppendArrays.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\07_AppendArrays.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\07_AppendArrays.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\07_AppendArrays.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\07_AppendArrays.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\ref\07_AppendArrays.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\bin\Debug\net5.0\07_AppendArrays.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\ref\07_AppendArrays.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Lists\07_AppendArrays\obj\Debug\net5.0\07_AppendArrays.genruntimeconfig.cache

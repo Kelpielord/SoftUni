@@ -35,7 +35,22 @@
       "ProjectGuid": "1f4ae17c-a808-403e-9dd2-4cceb52c758c",
       "DisplayName": "test",
       "ColorIndex": 5
+    },
+    "8c493380-ffeb-44a4-9a4d-106405c564c0": {
+      "ProjectGuid": "8c493380-ffeb-44a4-9a4d-106405c564c0",
+      "DisplayName": "05_BombNumbers",
+      "ColorIndex": 6
+    },
+    "7b173529-5bcc-4239-acfd-8c06f36a321b": {
+      "ProjectGuid": "7b173529-5bcc-4239-acfd-8c06f36a321b",
+      "DisplayName": "06_CardsGame",
+      "ColorIndex": 7
+    },
+    "9d61c5bf-caa9-417b-8f90-693c5e03977a": {
+      "ProjectGuid": "9d61c5bf-caa9-417b-8f90-693c5e03977a",
+      "DisplayName": "07_AppendArrays",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }

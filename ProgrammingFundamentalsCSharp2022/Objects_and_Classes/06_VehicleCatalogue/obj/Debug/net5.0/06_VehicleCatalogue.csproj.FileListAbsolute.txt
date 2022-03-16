@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\06_VehicleCatalogue.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\06_VehicleCatalogue.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\06_VehicleCatalogue.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\06_VehicleCatalogue.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\06_VehicleCatalogue.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\ref\06_VehicleCatalogue.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\bin\Debug\net5.0\06_VehicleCatalogue.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\ref\06_VehicleCatalogue.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\06_VehicleCatalogue\obj\Debug\net5.0\06_VehicleCatalogue.genruntimeconfig.cache
