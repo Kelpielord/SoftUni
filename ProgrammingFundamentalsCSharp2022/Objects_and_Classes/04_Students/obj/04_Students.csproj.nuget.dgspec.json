@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj": {}
+    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj": {
+    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj",
+        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj",
         "projectName": "04_Students",
-        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj",
-        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\obj\\",
+        "projectPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\04_Students.csproj",
+        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\04_Students\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

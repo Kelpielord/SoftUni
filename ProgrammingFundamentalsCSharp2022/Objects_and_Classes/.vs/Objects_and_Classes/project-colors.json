@@ -25,7 +25,22 @@
       "ProjectGuid": "3ef2de10-04fa-49a7-b622-5c379bbf175b",
       "DisplayName": "05_TeamworkProjects",
       "ColorIndex": 4
+    },
+    "1aa23994-eaab-4abe-9212-e182d2cbeff5": {
+      "ProjectGuid": "1aa23994-eaab-4abe-9212-e182d2cbeff5",
+      "DisplayName": "06_VehicleCatalogue",
+      "ColorIndex": 5
+    },
+    "07d90486-011e-4575-85e9-7247c3223ab8": {
+      "ProjectGuid": "07d90486-011e-4575-85e9-7247c3223ab8",
+      "DisplayName": "00_Test",
+      "ColorIndex": 6
+    },
+    "9205fbcb-809d-45d4-ad1f-2104b4c164dc": {
+      "ProjectGuid": "9205fbcb-809d-45d4-ad1f-2104b4c164dc",
+      "DisplayName": "07_OrderByAge",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
