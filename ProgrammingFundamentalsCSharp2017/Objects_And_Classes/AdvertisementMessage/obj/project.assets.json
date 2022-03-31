@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kelpie\\.nuget\\packages\\": {}
+    "C:\\Users\\Ness\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\Objects_And_Classes\\AdvertisementMessage\\AdvertisementMessage.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AdvertisementMessage\\AdvertisementMessage.csproj",
       "projectName": "AdvertisementMessage",
-      "projectPath": "C:\\Users\\Kelpie\\Desktop\\Objects_And_Classes\\AdvertisementMessage\\AdvertisementMessage.csproj",
-      "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelpie\\Desktop\\Objects_And_Classes\\AdvertisementMessage\\obj\\",
+      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AdvertisementMessage\\AdvertisementMessage.csproj",
+      "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2017\\Objects_And_Classes\\AdvertisementMessage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
