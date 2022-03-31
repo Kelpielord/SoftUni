@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\07_OrderByAge.exe
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\07_OrderByAge.deps.json
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\07_OrderByAge.runtimeconfig.json
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\07_OrderByAge.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\07_OrderByAge.dll
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\ref\07_OrderByAge.dll
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\bin\Debug\net5.0\07_OrderByAge.pdb
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.dll
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\ref\07_OrderByAge.dll
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.pdb
+C:\Users\Kelpie\Desktop\Projects\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_and_Classes\07_OrderByAge\obj\Debug\net5.0\07_OrderByAge.genruntimeconfig.cache

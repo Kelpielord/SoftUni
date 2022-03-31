@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj": {}
+    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj": {
+    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj",
+        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj",
         "projectName": "01_AdvertisementMessage",
-        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj",
-        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\obj\\",
+        "projectPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\01_AdvertisementMessage.csproj",
+        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\01_AdvertisementMessage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

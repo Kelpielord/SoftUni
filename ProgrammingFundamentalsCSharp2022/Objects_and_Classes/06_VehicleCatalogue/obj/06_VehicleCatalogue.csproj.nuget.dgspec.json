@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj": {}
+    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj": {
+    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
+        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
         "projectName": "06_VehicleCatalogue",
-        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
-        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\obj\\",
+        "projectPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
+        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

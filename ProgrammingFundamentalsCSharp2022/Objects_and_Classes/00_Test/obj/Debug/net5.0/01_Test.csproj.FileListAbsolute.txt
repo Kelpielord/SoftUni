@@ -1,0 +1,16 @@
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\01_Test.exe
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\01_Test.deps.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\01_Test.runtimeconfig.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\01_Test.runtimeconfig.dev.json
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\01_Test.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\ref\01_Test.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\bin\Debug\net5.0\01_Test.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.csproj.AssemblyReference.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.AssemblyInfoInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.AssemblyInfo.cs
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.csproj.CoreCompileInputs.cache
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\ref\01_Test.dll
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.pdb
+C:\Users\Kelpie\Desktop\SoftUni\ProgrammingFundamentalsCSharp2022\Objects_And_Classes\01_Test\obj\Debug\net5.0\01_Test.genruntimeconfig.cache
