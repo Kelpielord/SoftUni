@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kelpie\\.nuget\\packages\\": {}
+    "C:\\Users\\Ness\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
+      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
       "projectName": "00_Test",
-      "projectPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
-      "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\obj\\",
+      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
+      "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

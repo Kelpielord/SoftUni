@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj": {}
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj": {
+    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj",
+        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj",
         "projectName": "02_Articles",
-        "projectPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj",
-        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelpie\\Desktop\\Projects\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\obj\\",
+        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\02_Articles.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\02_Articles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
