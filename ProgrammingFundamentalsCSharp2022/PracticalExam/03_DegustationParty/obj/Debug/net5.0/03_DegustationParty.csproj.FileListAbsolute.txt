@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\03_DegustationParty.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\03_DegustationParty.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\03_DegustationParty.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\03_DegustationParty.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\03_DegustationParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\ref\03_DegustationParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\bin\Debug\net5.0\03_DegustationParty.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\ref\03_DegustationParty.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\03_DegustationParty\obj\Debug\net5.0\03_DegustationParty.genruntimeconfig.cache

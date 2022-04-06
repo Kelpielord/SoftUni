@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\01_Hogwarts.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\01_Hogwarts.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\01_Hogwarts.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\01_Hogwarts.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\01_Hogwarts.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\ref\01_Hogwarts.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\bin\Debug\net5.0\01_Hogwarts.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\ref\01_Hogwarts.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\01_Test\obj\Debug\net5.0\01_Hogwarts.genruntimeconfig.cache

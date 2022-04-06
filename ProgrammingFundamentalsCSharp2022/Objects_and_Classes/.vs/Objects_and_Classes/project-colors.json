@@ -1,46 +1,21 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "cba346e0-e6b7-4d4e-bbea-91fb0cf8909e": {
-      "ProjectGuid": "cba346e0-e6b7-4d4e-bbea-91fb0cf8909e",
-      "DisplayName": "01_AdvertisementMessage",
+    "1aa23994-eaab-4abe-9212-e182d2cbeff5": {
+      "ProjectGuid": "1aa23994-eaab-4abe-9212-e182d2cbeff5",
+      "DisplayName": "06_VehicleCatalogue",
       "ColorIndex": 0
-    },
-    "e3dafd28-face-4120-a49c-eb50c9ba68ed": {
-      "ProjectGuid": "e3dafd28-face-4120-a49c-eb50c9ba68ed",
-      "DisplayName": "02_Articles",
-      "ColorIndex": 1
-    },
-    "a078ac6e-ad44-4878-9ead-be3408f46367": {
-      "ProjectGuid": "a078ac6e-ad44-4878-9ead-be3408f46367",
-      "DisplayName": "03_Articles2_0",
-      "ColorIndex": 2
-    },
-    "4a571bb6-f0e9-4760-92ac-d832099f995a": {
-      "ProjectGuid": "4a571bb6-f0e9-4760-92ac-d832099f995a",
-      "DisplayName": "04_Students",
-      "ColorIndex": 3
     },
     "3ef2de10-04fa-49a7-b622-5c379bbf175b": {
       "ProjectGuid": "3ef2de10-04fa-49a7-b622-5c379bbf175b",
       "DisplayName": "05_TeamworkProjects",
-      "ColorIndex": 4
+      "ColorIndex": 1
     },
-    "1aa23994-eaab-4abe-9212-e182d2cbeff5": {
-      "ProjectGuid": "1aa23994-eaab-4abe-9212-e182d2cbeff5",
-      "DisplayName": "06_VehicleCatalogue",
-      "ColorIndex": 5
-    },
-    "07d90486-011e-4575-85e9-7247c3223ab8": {
-      "ProjectGuid": "07d90486-011e-4575-85e9-7247c3223ab8",
-      "DisplayName": "00_Test",
-      "ColorIndex": 6
-    },
-    "9205fbcb-809d-45d4-ad1f-2104b4c164dc": {
-      "ProjectGuid": "9205fbcb-809d-45d4-ad1f-2104b4c164dc",
-      "DisplayName": "07_OrderByAge",
-      "ColorIndex": 7
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 2
 }

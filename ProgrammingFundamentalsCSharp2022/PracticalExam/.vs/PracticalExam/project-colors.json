@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "490a0aaa-2d1d-4e55-8d5f-6e81fa282a3c": {
+      "ProjectGuid": "490a0aaa-2d1d-4e55-8d5f-6e81fa282a3c",
+      "DisplayName": "01_Hogwarts",
+      "ColorIndex": 0
+    },
+    "bf397a5d-5985-435f-a4a1-0d8363dac469": {
+      "ProjectGuid": "bf397a5d-5985-435f-a4a1-0d8363dac469",
+      "DisplayName": "02_MessageTranslator",
+      "ColorIndex": 1
+    },
+    "b87ccbd9-5285-4c67-b70b-4ba4dd85b9c5": {
+      "ProjectGuid": "b87ccbd9-5285-4c67-b70b-4ba4dd85b9c5",
+      "DisplayName": "03_DegustationParty",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

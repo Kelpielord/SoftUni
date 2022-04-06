@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\02_MessageTranslator.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\02_MessageTranslator.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\02_MessageTranslator.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\02_MessageTranslator.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\02_MessageTranslator.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\ref\02_MessageTranslator.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\bin\Debug\net5.0\02_MessageTranslator.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\ref\02_MessageTranslator.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\PracticalExam\02_MessageTranslator\obj\Debug\net5.0\02_MessageTranslator.genruntimeconfig.cache
