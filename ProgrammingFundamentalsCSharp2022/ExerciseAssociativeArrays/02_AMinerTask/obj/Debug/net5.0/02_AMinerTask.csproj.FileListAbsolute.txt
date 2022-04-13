@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\02_AMinerTask.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\02_AMinerTask.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\02_AMinerTask.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\02_AMinerTask.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\02_AMinerTask.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\ref\02_AMinerTask.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\bin\Debug\net5.0\02_AMinerTask.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\ref\02_AMinerTask.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\02_AMinerTask\obj\Debug\net5.0\02_AMinerTask.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "130b0729-85ca-4f4e-b5e1-f1d03d62051f": {
+      "ProjectGuid": "130b0729-85ca-4f4e-b5e1-f1d03d62051f",
+      "DisplayName": "01_CountCharsInAString",
+      "ColorIndex": 0
+    },
+    "edaa66d0-5de5-4db4-8551-e391fc1f32e7": {
+      "ProjectGuid": "edaa66d0-5de5-4db4-8551-e391fc1f32e7",
+      "DisplayName": "02_AMinerTask",
+      "ColorIndex": 1
+    },
+    "1f0bddc8-3b3f-4bda-a206-ab61ed7324f4": {
+      "ProjectGuid": "1f0bddc8-3b3f-4bda-a206-ab61ed7324f4",
+      "DisplayName": "03_LegendaryFarming",
+      "ColorIndex": 2
+    },
+    "41d36a72-a4a8-4e9b-99ca-d925dbee3969": {
+      "ProjectGuid": "41d36a72-a4a8-4e9b-99ca-d925dbee3969",
+      "DisplayName": "04_Orders",
+      "ColorIndex": 3
+    },
+    "e6dbf94f-6d61-456f-8d28-a04ad08a5c42": {
+      "ProjectGuid": "e6dbf94f-6d61-456f-8d28-a04ad08a5c42",
+      "DisplayName": "05_SoftUniParking",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

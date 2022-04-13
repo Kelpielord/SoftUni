@@ -1,0 +1,16 @@
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\04_Orders.exe
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\04_Orders.deps.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\04_Orders.runtimeconfig.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\04_Orders.runtimeconfig.dev.json
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\04_Orders.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\ref\04_Orders.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\bin\Debug\net5.0\04_Orders.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.csproj.AssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.AssemblyInfoInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.AssemblyInfo.cs
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.csproj.CoreCompileInputs.cache
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\ref\04_Orders.dll
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.pdb
+C:\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\04_Orders\obj\Debug\net5.0\04_Orders.genruntimeconfig.cache
