@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3pfY+J2Ff3fG2DIZGgrxQzxzaH/W4q33ifBjfTOyPCNC3I5/x0a3ratlePOdxZ+CJ4AT/AxUCITe1pfDPJdTUQ==",
+  "dgSpecHash": "QafC3QUKNl+fWuODB+xeHu3HwVeBR4dYcunQm4S9rG97HdpCnUCN8eH+k013JPLNW3CUK5Hjg8x1MQK5QNvxuQ==",
   "success": true,
-  "projectFilePath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\03_LegendaryFarming\\03_LegendaryFarming.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\03_LegendaryFarming\\03_LegendaryFarming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

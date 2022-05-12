@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lLFQmRRrIZXIgnTA45DCvSJrb0ygjPGM9lbZ+pWuOvGvaXbUmOnwuw6DcHAp1+oN3J4yix/6G4va9LAritq7xg==",
+  "dgSpecHash": "fEj5ZAlHHYUWi+19P5Ji5lIhQJWRIAzEDu6q6eQFN7BETg6M6kv4AuKeoVG33vjbOs9vsvqFugYS4RtrRhKs+w==",
   "success": true,
-  "projectFilePath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\02_AMinerTask\\02_AMinerTask.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\02_AMinerTask\\02_AMinerTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

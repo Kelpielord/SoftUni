@@ -1,0 +1,16 @@
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\bin\Debug\net5.0\05_SoftUniParking.exe
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\bin\Debug\net5.0\05_SoftUniParking.deps.json
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\bin\Debug\net5.0\05_SoftUniParking.runtimeconfig.json
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\bin\Debug\net5.0\05_SoftUniParking.runtimeconfig.dev.json
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\bin\Debug\net5.0\05_SoftUniParking.dll
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\bin\Debug\net5.0\05_SoftUniParking.pdb
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.AssemblyInfo.cs
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.dll
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\refint\05_SoftUniParking.dll
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.pdb
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\05_SoftUniParking.genruntimeconfig.cache
+C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseAssociativeArrays\05_SoftUniParking\obj\Debug\net5.0\ref\05_SoftUniParking.dll

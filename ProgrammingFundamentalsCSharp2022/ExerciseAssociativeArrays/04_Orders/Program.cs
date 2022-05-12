@@ -34,10 +34,10 @@ namespace _04_Orders
                 double productPrice = double.Parse(input[1]);
                 int productQuantity = int.Parse(input[2]);
 
-                if (!products.ContainsKey(input[0]))
+                if (!products.ContainsKey(productName))
                 {
                     Product product = new Product(productName, productPrice, productQuantity);
-                    products.Add(input[0], product);
+                    products.Add(productName, product);
                 }
                 else
                 {

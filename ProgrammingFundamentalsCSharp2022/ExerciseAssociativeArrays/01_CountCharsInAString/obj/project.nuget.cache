@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uJF6tQCm/b1hZ5XH+IfkgrpzKOV6IDwNpW+eCW53A6O9ObY4G+nGQTNReK+OgVimINLkLeeJa3Hl9iIFe+BYBg==",
+  "dgSpecHash": "D4hnlySXLbw5s8vaNd0wruHvSiT2hd7Th+grDmc4Dyr8Yiudan/Qw96nJa9oOeRX56QMFJ/MYN3t/0n0s5DTOQ==",
   "success": true,
-  "projectFilePath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\01_CountCharsInAString\\01_CountCharsInAString.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\01_CountCharsInAString\\01_CountCharsInAString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

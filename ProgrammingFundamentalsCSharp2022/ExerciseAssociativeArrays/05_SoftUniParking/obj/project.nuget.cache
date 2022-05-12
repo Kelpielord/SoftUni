@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h68ZHwJILE+oaT2i94ppgG+q+WdEIIPr1+OhM0oDAwi4p5d7/fBMeeOiu3Eo7Kl1tuoEfWIZUt8nEARkibtwiw==",
+  "dgSpecHash": "bLU5yetQq2+Xppn5rrZ1PBNBnHOeFTXou1HjN3jMsmOCf9EojJM+lCut5PGPl4Q9xHAyw3DOaLmHIDRX/w7EeQ==",
   "success": true,
-  "projectFilePath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\05_SoftUniParking\\05_SoftUniParking.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseAssociativeArrays\\05_SoftUniParking\\05_SoftUniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
