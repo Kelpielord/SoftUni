@@ -1,0 +1,16 @@
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\bin\Debug\net5.0\03_ExtractFile.exe
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\bin\Debug\net5.0\03_ExtractFile.deps.json
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\bin\Debug\net5.0\03_ExtractFile.runtimeconfig.json
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\bin\Debug\net5.0\03_ExtractFile.runtimeconfig.dev.json
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\bin\Debug\net5.0\03_ExtractFile.dll
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\bin\Debug\net5.0\03_ExtractFile.pdb
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.csproj.AssemblyReference.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.AssemblyInfo.cs
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.dll
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\refint\03_ExtractFile.dll
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.pdb
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\03_ExtractFile.genruntimeconfig.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\obj\Debug\net5.0\ref\03_ExtractFile.dll

@@ -1,0 +1,16 @@
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\bin\Debug\net5.0\01_ValidUsernames.exe
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\bin\Debug\net5.0\01_ValidUsernames.deps.json
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\bin\Debug\net5.0\01_ValidUsernames.runtimeconfig.json
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\bin\Debug\net5.0\01_ValidUsernames.runtimeconfig.dev.json
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\bin\Debug\net5.0\01_ValidUsernames.dll
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\bin\Debug\net5.0\01_ValidUsernames.pdb
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.AssemblyInfo.cs
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.dll
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\refint\01_ValidUsernames.dll
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.pdb
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\01_ValidUsernames.genruntimeconfig.cache
+C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\01_ValidUsernames\obj\Debug\net5.0\ref\01_ValidUsernames.dll
