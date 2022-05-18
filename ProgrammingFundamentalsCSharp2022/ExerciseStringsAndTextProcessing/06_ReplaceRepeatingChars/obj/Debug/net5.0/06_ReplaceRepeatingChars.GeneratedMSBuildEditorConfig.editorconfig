@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _03_ExtractFile
-build_property.ProjectDir = C:\Users\Ness\source\repos\ExerciseStringsAndTextProcessing\03_ExtractFile\
+build_property.RootNamespace = _06_ReplaceRepeatingChars
+build_property.ProjectDir = C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseStringsAndTextProcessing\06_ReplaceRepeatingChars\

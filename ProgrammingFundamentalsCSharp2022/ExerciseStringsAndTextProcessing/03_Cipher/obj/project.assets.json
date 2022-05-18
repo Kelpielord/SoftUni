@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ness\\source\\repos\\ExerciseStringsAndTextProcessing\\03_ExtractFile\\03_ExtractFile.csproj",
-      "projectName": "03_ExtractFile",
-      "projectPath": "C:\\Users\\Ness\\source\\repos\\ExerciseStringsAndTextProcessing\\03_ExtractFile\\03_ExtractFile.csproj",
+      "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\03_Cipher\\03_Cipher.csproj",
+      "projectName": "03_Cipher",
+      "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\03_Cipher\\03_Cipher.csproj",
       "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ness\\source\\repos\\ExerciseStringsAndTextProcessing\\03_ExtractFile\\obj\\",
+      "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\03_Cipher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",

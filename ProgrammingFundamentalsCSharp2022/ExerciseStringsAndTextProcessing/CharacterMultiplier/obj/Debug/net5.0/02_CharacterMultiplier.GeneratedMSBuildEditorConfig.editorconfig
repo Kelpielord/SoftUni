@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _01_ValidUsernames
-build_property.ProjectDir = C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseStringsAndTextProcessing\01_ValidUsernames\
+build_property.RootNamespace = 02_CharacterMultiplier
+build_property.ProjectDir = C:\Users\Ness\Desktop\Softuni\SoftUni\ProgrammingFundamentalsCSharp2022\ExerciseStringsAndTextProcessing\CharacterMultiplier\

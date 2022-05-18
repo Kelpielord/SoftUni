@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\01_ValidUsernames\\01_ValidUsernames.csproj": {}
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\06_ReplaceRepeatingChars\\06_ReplaceRepeatingChars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\01_ValidUsernames\\01_ValidUsernames.csproj": {
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\06_ReplaceRepeatingChars\\06_ReplaceRepeatingChars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\01_ValidUsernames\\01_ValidUsernames.csproj",
-        "projectName": "01_ValidUsernames",
-        "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\01_ValidUsernames\\01_ValidUsernames.csproj",
+        "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\06_ReplaceRepeatingChars\\06_ReplaceRepeatingChars.csproj",
+        "projectName": "06_ReplaceRepeatingChars",
+        "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\06_ReplaceRepeatingChars\\06_ReplaceRepeatingChars.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\01_ValidUsernames\\obj\\",
+        "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\ExerciseStringsAndTextProcessing\\06_ReplaceRepeatingChars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
