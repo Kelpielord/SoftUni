@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
+      "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
       "projectName": "06_VehicleCatalogue",
-      "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
+      "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\06_VehicleCatalogue.csproj",
       "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-      "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\obj\\",
+      "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\06_VehicleCatalogue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

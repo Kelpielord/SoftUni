@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj": {}
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj": {
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
+        "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
         "projectName": "00_Test",
-        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
+        "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\00_Test.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\obj\\",
+        "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\00_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

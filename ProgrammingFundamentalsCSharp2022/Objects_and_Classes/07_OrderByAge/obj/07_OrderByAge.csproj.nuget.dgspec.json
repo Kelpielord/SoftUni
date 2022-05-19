@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj": {}
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj": {
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj",
+        "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj",
         "projectName": "07_OrderByAge",
-        "projectPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj",
+        "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\07_OrderByAge.csproj",
         "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\obj\\",
+        "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingFundamentalsCSharp2022\\Objects_and_Classes\\07_OrderByAge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
