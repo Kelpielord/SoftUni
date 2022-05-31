@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj": {}
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj": {
+    "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj",
+        "projectUniqueName": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj",
         "projectName": "CleverLily",
-        "projectPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj",
-        "packagesPath": "C:\\Users\\Kelpie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kelpie\\Desktop\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\obj\\",
+        "projectPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\CleverLily.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ness\\Desktop\\Softuni\\SoftUni\\ProgrammingBasicsCSharp\\FirstSteps\\ForLoopExercise\\CleverLily\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kelpie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Kelpie\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
