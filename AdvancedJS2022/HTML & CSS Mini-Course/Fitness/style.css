@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Helvetica", sans-serif;
+}
+
+.nav-list li {
+  display: inline-block;
+  margin-left: 15px;
+  position: relative;
+}
+
+.nav-container li::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 1px;
+  background-color: #F9690E;
+  transition: 0.4s;
+}
+
+.nav-container li:hover::after {
+  width: 100%;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: #F9690E;
+}
+
+.nav-list {
+  text-align: right;
+  padding: 20px;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #F9690E;
+}
+
+.logo-text {
+  padding-left: 10px;
+}
+
+.logo-icon {
+  font-size: 25px;
+}
+
+.landing-image-container {
+  height: 700px;
+  background-image: url('./img/picture.jpg');
+  background-size: cover;
+}
+
+.landing-call-to-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.landing-image-text {
+  text-align: center;
+  color: white;
+  font-family: "Helvetica", sans-serif;
+  max-width: 564px;
+}
+
+span {
+  color: #F9690E;
+}
+
+.landing-image-button {
+  margin-top: 42px;
+  background-color: #F9690E;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px 15px;
+}
+
+.landing-image-button:hover {
+  background-color: white;
+  color: #F9690E;
+  cursor: pointer;
+}
+
+.service-block {
+  display: inline-block;
+  width: 300px;
+  background-color: #F9690E;
+  padding: 45px;
+  color: white;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.service-header {
+  padding-bottom: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.social-icons a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #022348;
+}
